@@ -1,0 +1,259 @@
+[
+  {
+    "id": "metro-rush",
+    "name": "Metro Rush",
+    "category": "Runner",
+    "description": "Original MGLabs three-lane endless runner.",
+    "status": "Built",
+    "developer": "MGLabs",
+    "controls": [
+      "Arrow keys",
+      "WASD",
+      "Touch swipe"
+    ],
+    "touch": true,
+    "controller": false,
+    "fullscreen": true,
+    "tags": [
+      "Original",
+      "Runner"
+    ]
+  },
+  {
+    "id": "voxel-frontier",
+    "name": "Voxel Frontier",
+    "category": "Builder",
+    "description": "Original lightweight block-building and mining sandbox.",
+    "status": "Built",
+    "developer": "MGLabs",
+    "controls": [
+      "Mouse",
+      "Shift + click"
+    ],
+    "touch": false,
+    "controller": false,
+    "fullscreen": true,
+    "tags": [
+      "Original",
+      "Builder"
+    ]
+  },
+  {
+    "id": "kart-royale",
+    "name": "Kart Royale",
+    "category": "Kart Racing",
+    "description": "Open-source browser kart racer.",
+    "status": "External/Open-Source",
+    "developer": "Ryan Campbell",
+    "sourceUrl": "https://github.com/ryancampbell/kart-royale",
+    "playUrl": "https://racing.ryancampbell.com",
+    "license": "MIT",
+    "touch": true,
+    "controller": true,
+    "fullscreen": true,
+    "tags": [
+      "Open Source",
+      "Kart"
+    ]
+  },
+  {
+    "id": "generate-racer",
+    "name": "GenerateRacer",
+    "category": "Kart Racing",
+    "description": "Open-source browser kart racer with AI, touch, gamepad and multiplayer features.",
+    "status": "External/Open-Source",
+    "developer": "Jeroen Willemsen",
+    "sourceUrl": "https://github.com/commjoen/generatedracer",
+    "license": "MIT",
+    "touch": true,
+    "controller": true,
+    "fullscreen": true,
+    "tags": [
+      "Open Source",
+      "Kart"
+    ]
+  },
+  {
+    "id": "hexgl",
+    "name": "HexGL",
+    "category": "Racing / 3D",
+    "description": "Futuristic open-source browser racing game.",
+    "status": "External/Open-Source",
+    "developer": "BKcore",
+    "sourceUrl": "https://github.com/BKcore/HexGL",
+    "playUrl": "http://hexgl.bkcore.com",
+    "license": "MIT (see repository files)",
+    "touch": false,
+    "controller": false,
+    "fullscreen": true,
+    "tags": [
+      "Open Source",
+      "Racing",
+      "3D"
+    ]
+  },
+  {
+    "id": "browserquest",
+    "name": "BrowserQuest",
+    "category": "RPG / Multiplayer",
+    "description": "Mozilla's open-source multiplayer browser RPG.",
+    "status": "External/Open-Source",
+    "developer": "Mozilla",
+    "sourceUrl": "https://github.com/mozilla/BrowserQuest",
+    "license": "See repository notices",
+    "touch": false,
+    "controller": false,
+    "fullscreen": true,
+    "tags": [
+      "Open Source",
+      "RPG",
+      "Multiplayer"
+    ]
+  },
+  {
+    "id": "hextris",
+    "name": "Hextris",
+    "category": "Puzzle",
+    "description": "Fast-paced hexagonal falling-block puzzle.",
+    "status": "External/Open-Source",
+    "developer": "Hextris",
+    "sourceUrl": "https://github.com/Hextris/hextris",
+    "license": "GPL-3.0",
+    "touch": true,
+    "controller": false,
+    "fullscreen": true,
+    "tags": [
+      "Open Source",
+      "Puzzle"
+    ]
+  },
+  {
+    "id": "radius-raid",
+    "name": "Radius Raid",
+    "category": "Arcade Shooter",
+    "description": "Compact HTML5 Canvas arcade shooter.",
+    "status": "External/Open-Source",
+    "developer": "js13kGames community",
+    "sourceUrl": "https://github.com/js13kGames/radius-raid",
+    "playUrl": "https://js13kgames.com/2013/games/radius-raid",
+    "license": "MIT",
+    "touch": false,
+    "controller": false,
+    "fullscreen": true,
+    "tags": [
+      "Open Source",
+      "Arcade"
+    ]
+  },
+  {
+    "id": "retro-bowl-official",
+    "name": "Retro Bowl",
+    "category": "Sports / Football",
+    "description": "Commercial football game by New Star Games. Listed as an official external title only; MGLabs does not redistribute or bypass access controls.",
+    "status": "External/Official",
+    "developer": "New Star Games",
+    "sourceUrl": "https://www.newstargames.com/",
+    "license": "Commercial / publisher-controlled",
+    "touch": true,
+    "controller": false,
+    "fullscreen": false,
+    "tags": [
+      "Football",
+      "Retro",
+      "Official External"
+    ]
+  },
+  {
+    "id": "voxelcraft-browser",
+    "name": "Voxelcraft",
+    "category": "Voxel / Builder",
+    "description": "Open-source browser voxel survival game in a single HTML file with procedural worlds, crafting, mobs, and more.",
+    "status": "External/Open-Source",
+    "developer": "bridge-mind",
+    "sourceUrl": "https://github.com/bridge-mind/voxelcraft",
+    "license": "MIT",
+    "touch": false,
+    "controller": false,
+    "fullscreen": true,
+    "tags": [
+      "Voxel",
+      "Builder",
+      "Open Source",
+      "Minecraft-inspired"
+    ]
+  },
+  {
+    "id": "minecraft-like-voxel-game",
+    "name": "Minecraft-Like Voxel Game",
+    "category": "Voxel / Builder",
+    "description": "MIT-licensed JavaScript voxel engine with infinite procedural world generation, block placement/breaking, and biomes.",
+    "status": "External/Open-Source",
+    "developer": "Refloow",
+    "sourceUrl": "https://github.com/Refloow/Minecraft-Like-Voxel-Game",
+    "license": "MIT",
+    "touch": false,
+    "controller": false,
+    "fullscreen": true,
+    "tags": [
+      "Voxel",
+      "Builder",
+      "Open Source",
+      "Procedural"
+    ]
+  },
+  {
+    "id": "voxel-game-js",
+    "name": "Voxel Game JS",
+    "category": "Voxel / Builder",
+    "description": "Browser voxel game written from scratch in JavaScript and WebGL. Source-linked only until its redistribution terms are verified.",
+    "status": "External/License-Check",
+    "developer": "guckstift",
+    "sourceUrl": "https://github.com/guckstift/voxel-game-js",
+    "license": "Verify before redistribution",
+    "touch": false,
+    "controller": false,
+    "fullscreen": true,
+    "tags": [
+      "Voxel",
+      "WebGL",
+      "Source Only"
+    ]
+  },
+  {
+    "id": "minicraft-browser",
+    "name": "Minicraft",
+    "category": "Voxel / Builder",
+    "description": "Browser voxel project using JavaScript and ray tracing. Source-linked only until licensing and redistribution terms are verified.",
+    "status": "External/License-Check",
+    "developer": "L3P3",
+    "sourceUrl": "https://github.com/L3P3/minicraft",
+    "license": "Verify before redistribution",
+    "touch": false,
+    "controller": false,
+    "fullscreen": true,
+    "tags": [
+      "Voxel",
+      "Ray Tracing",
+      "Source Only"
+    ]
+  },
+  {
+    "id": "blk-game",
+    "name": "BLK Game",
+    "category": "Voxel / Multiplayer",
+    "description": "Open-source JavaScript/WebGL multiplayer voxel-world tech demo.",
+    "status": "External/Open-Source",
+    "developer": "morozd",
+    "sourceUrl": "https://github.com/morozd/blk-game",
+    "license": "See repository notices",
+    "touch": false,
+    "controller": false,
+    "fullscreen": true,
+    "tags": [
+      "Voxel",
+      "Multiplayer",
+      "WebGL",
+      "Open Source"
+    ]
+  }
+]

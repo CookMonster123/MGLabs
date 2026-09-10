@@ -1,0 +1,137 @@
+[
+  {
+    "name": "90s Games",
+    "category": "Mega Library",
+    "games": "114 self-contained HTML5 Canvas games",
+    "license": "MIT",
+    "source": "https://github.com/prateek121/90s-games",
+    "play": "",
+    "details": "A large zero-dependency collection. The repository includes games such as 2048, Asteroids, Breakout, Frogger, Minesweeper, Pong, Snake, Sokoban, Space Invaders, Tetris, runners, puzzles, rhythm games and many more."
+  },
+  {
+    "name": "Tiny Arcade",
+    "category": "Mega Library",
+    "games": "257+ retro and pixel-art browser games",
+    "license": "MIT + NOTICE attribution",
+    "source": "https://github.com/bite-arcade/tiny-arcade",
+    "play": "https://tiny-arcade.com",
+    "details": "Pure frontend game library with no backend or tracking according to the project repository."
+  },
+  {
+    "name": "Game-Zone",
+    "category": "Mega Library",
+    "games": "20+ HTML5/CSS/JavaScript games",
+    "license": "MIT",
+    "source": "https://github.com/StrataMind/Game-Zone",
+    "play": "https://stratamind.github.io/Game-Zone/",
+    "details": "Multi-page browser arcade with games including Soccer Slime, typing challenges, Whack-a-Mole, puzzles and other arcade titles."
+  },
+  {
+    "name": "Temple Run Browser Game",
+    "category": "Runner",
+    "games": "3D-style endless runner",
+    "license": "MIT",
+    "source": "https://github.com/GameHelix/temple_run",
+    "play": "",
+    "details": "Canvas runner with lanes, jumping, sliding, turn gates, coins, scoring and increasing difficulty."
+  },
+  {
+    "name": "Endless Runner",
+    "category": "Runner",
+    "games": "HTML5 Canvas endless runner",
+    "license": "MIT",
+    "source": "https://github.com/parthjpatel99/endless-runner",
+    "play": "",
+    "details": "Browser runner with obstacle spawning, parallax layers, jumping, sound, score and speed scaling."
+  },
+  {
+    "name": "HexGL",
+    "category": "Racing / 3D",
+    "games": "Futuristic HTML5 racing game",
+    "license": "MIT unless specified per file",
+    "source": "https://github.com/BKcore/HexGL",
+    "play": "http://hexgl.bkcore.com",
+    "details": "Well-known open-source futuristic browser racing project."
+  },
+  {
+    "name": "Crash Car",
+    "category": "Racing",
+    "games": "2D obstacle-dodging car game",
+    "license": "MIT",
+    "source": "https://github.com/varunbudati/Crash_Car",
+    "play": "",
+    "details": "Browser driving game with coins, keyboard/mouse controls, shields, slow motion and point-magnet powerups."
+  },
+  {
+    "name": "Nordschleife Racer",
+    "category": "Racing / 3D",
+    "games": "Browser arcade-sim racing engine",
+    "license": "MIT for original engine code; third-party assets separately credited",
+    "source": "https://github.com/yassinsolim/nordschleife-racer",
+    "play": "https://yassin.app",
+    "details": "TypeScript + Three.js racing engine with custom vehicle physics, multiplayer and ghost replays."
+  },
+  {
+    "name": "APEX FORMULA 2026",
+    "category": "Racing / 3D",
+    "games": "Open-wheel browser racing simulator",
+    "license": "Apache-2.0 for original project; Three.js MIT; asset provenance documented",
+    "source": "https://github.com/ahacker-1/apex-formula-2026",
+    "play": "https://apex-formula-2026.vercel.app",
+    "details": "Original browser racing simulator with documented third-party licensing and asset provenance."
+  },
+  {
+    "name": "Football Frenzy Arcade",
+    "category": "Sports",
+    "games": "Penalty shootout + keepie-uppie + football quiz",
+    "license": "MIT",
+    "source": "https://github.com/Rishi713144/Football-Arcade",
+    "play": "https://footballrishi.vercel.app/",
+    "details": "Football browser arcade with penalty shootout, keepie-uppie physics and a football personality quiz."
+  },
+  {
+    "name": "Soccer.js",
+    "category": "Sports / Multiplayer",
+    "games": "HTML5 socket-based soccer game",
+    "license": "MIT",
+    "source": "https://github.com/Mati365/Soccer.js",
+    "play": "",
+    "details": "Open-source browser soccer project inspired by HaxBall-style gameplay."
+  },
+  {
+    "name": "Breakout",
+    "category": "Retro",
+    "games": "HTML5 JavaScript Breakout clone",
+    "license": "MIT",
+    "source": "https://github.com/igameproject/Breakout",
+    "play": "http://www.igameproject.com/Breakout",
+    "details": "Canvas/DOM Breakout game with paddle controls, lives and block clearing."
+  },
+  {
+    "name": "HTML5 Platformer",
+    "category": "Platformer",
+    "games": "2D side-scrolling platformer",
+    "license": "MIT",
+    "source": "https://github.com/ZeroDayArcade/HTML5_Platformer",
+    "play": "https://zerodayarcade.com/demos/platformer",
+    "details": "Vanilla JavaScript side-scroller. Its art/music come from separately credited OpenGameArt creators."
+  },
+  {
+    "name": "Platformer + Level Editor",
+    "category": "Platformer / Builder",
+    "games": "HTML5 platformer with JSON level editor",
+    "license": "Check repository before redistribution",
+    "source": "https://github.com/pgattic/platformer",
+    "play": "https://pgattic.github.io/platformer",
+    "details": "Simple platformer with an editor that exports and imports levels as JSON. Listed for discovery; license should be checked before bundling."
+  },
+  {
+    "name": "BrowserQuest",
+    "category": "RPG / Multiplayer",
+    "games": "Open-source multiplayer browser RPG",
+    "license": "Open-source project; verify exact license/asset notices before redistribution",
+    "source": "https://github.com/mozilla/BrowserQuest",
+    "play": "",
+    "details": "Mozilla browser RPG project useful as a reference for tile maps, realtime multiplayer and RPG interactions."
+  }
+]

@@ -1,0 +1,503 @@
+[
+  {
+    "name": "Pulse Runner X",
+    "genre": "Roguelite Reflex",
+    "core_loop": "Survive 90-second runs, collect energy, choose one of three upgrades, then enter a harder sector.",
+    "systems": [
+      "Procedural lane patterns",
+      "Dash stamina",
+      "Combo meter",
+      "Per-run upgrade draft",
+      "Boss sectors",
+      "Daily seed",
+      "Local high score"
+    ],
+    "advanced": "Enemy pattern telegraphing, difficulty director, accessibility speed slider, touch controls, replay seed support."
+  },
+  {
+    "name": "Grid Strike: Nexus",
+    "genre": "Turn-Based Strategy",
+    "core_loop": "Capture nodes, route power, block rival chains, and complete objective-based maps.",
+    "systems": [
+      "Grid territory",
+      "Energy economy",
+      "Unit abilities",
+      "Fog of war",
+      "Campaign map",
+      "Challenge puzzles",
+      "AI opponent"
+    ],
+    "advanced": "Heuristic AI, map modifiers, undo system, deterministic replays, scenario editor."
+  },
+  {
+    "name": "Orbit Dash 3D",
+    "genre": "Physics Racing",
+    "core_loop": "Use gravity assists around planets to beat target times and collect route medals.",
+    "systems": [
+      "Orbital pull",
+      "Boost heat",
+      "Checkpoint ghosts",
+      "Time trials",
+      "Ship classes",
+      "Medals",
+      "Track editor concept"
+    ],
+    "advanced": "Fixed timestep physics, interpolation, ghost racing, camera smoothing, performance quality settings."
+  },
+  {
+    "name": "Code Circuit: Automata",
+    "genre": "Programming Puzzle",
+    "core_loop": "Program bots with blocks or text commands to solve factory-floor missions.",
+    "systems": [
+      "Block commands",
+      "Text mode",
+      "Sensors",
+      "Loops",
+      "Conditions",
+      "Functions",
+      "Mission scoring"
+    ],
+    "advanced": "Step debugger, execution timeline, breakpoints, test cases, code complexity score, sandbox levels."
+  },
+  {
+    "name": "Bot Builder Arena",
+    "genre": "Engineering Sandbox",
+    "core_loop": "Build a robot, select sensors and logic, then test it in obstacle arenas.",
+    "systems": [
+      "Component inventory",
+      "Weight/energy budget",
+      "Sensor cone visualization",
+      "Pseudocode",
+      "Arena tests",
+      "Telemetry",
+      "Upgrade unlocks"
+    ],
+    "advanced": "Component constraints, recorded telemetry, behavior graphs, challenge-specific scoring, shareable build JSON."
+  },
+  {
+    "name": "Packet Panic: Firewall",
+    "genre": "Cyber Defense Arcade",
+    "core_loop": "Inspect incoming traffic and route it through allow, quarantine, or block lanes before overload.",
+    "systems": [
+      "Packet types",
+      "Rule upgrades",
+      "False positives",
+      "Threat streaks",
+      "Network health",
+      "Scenario waves",
+      "Defensive lessons"
+    ],
+    "advanced": "Explain-why feedback, progressive rule complexity, safe-only defensive content, campaign difficulty."
+  },
+  {
+    "name": "Eco City: Systems",
+    "genre": "City Strategy Simulation",
+    "core_loop": "Grow a city while balancing energy, transit, waste, budget, satisfaction, and emissions.",
+    "systems": [
+      "Zoning",
+      "Power mix",
+      "Transit routes",
+      "Waste",
+      "Budget",
+      "Events",
+      "Scenario goals"
+    ],
+    "advanced": "Transparent simulation formulas, policy tradeoffs, scenario presets, charts, save slots, no real-world prediction claims."
+  },
+  {
+    "name": "Server Room: Uptime",
+    "genre": "Systems Management",
+    "core_loop": "Keep a fictional online service healthy through traffic spikes, outages, patches, and budget pressure.",
+    "systems": [
+      "CPU/load",
+      "Latency",
+      "Database health",
+      "Backups",
+      "Alerts",
+      "Incident queue",
+      "Budget"
+    ],
+    "advanced": "Incident timelines, postmortems, dependency graph, autoscaling choices, safe systems-learning focus."
+  },
+  {
+    "name": "Mission Control",
+    "genre": "Operations Simulation",
+    "core_loop": "Manage a fictional launch countdown by resolving telemetry anomalies and checklist conflicts.",
+    "systems": [
+      "Countdown",
+      "Subsystem health",
+      "Checklist dependencies",
+      "Crew assignments",
+      "Telemetry",
+      "Go/no-go decisions",
+      "Debrief"
+    ],
+    "advanced": "Branching incidents, deterministic scenario seeds, timeline scrubber, decision log, scoring by safety/process."
+  },
+  {
+    "name": "Lab Escape: Quantum Wing",
+    "genre": "Puzzle Adventure",
+    "core_loop": "Escape a research facility by interpreting graphs, logic clues, simulated sensor values, and device states.",
+    "systems": [
+      "Room states",
+      "Inventory",
+      "Graph puzzles",
+      "Code panels",
+      "Physics clues",
+      "Hint system",
+      "Multiple endings"
+    ],
+    "advanced": "Persistent puzzle graph, contextual hints, accessible color-safe symbols, speedrun timer, chapter structure."
+  },
+  {
+    "name": "Neon Goal Arena",
+    "genre": "Arcade Sports",
+    "core_loop": "Top-down 3v3 futuristic soccer with boosts, wall passes, energy management, and short matches.",
+    "systems": [
+      "Ball physics",
+      "Boost",
+      "AI teammates",
+      "Shot charge",
+      "Wall ricochet",
+      "Matchmaking concept",
+      "Local tournament"
+    ],
+    "advanced": "Predictive interception AI, stamina/boost economy, controller support, replay clips, practice mode."
+  },
+  {
+    "name": "Astro Colony",
+    "genre": "Resource Builder",
+    "core_loop": "Expand a small moon colony while balancing oxygen, water, power, food, storage, and crew needs.",
+    "systems": [
+      "Resource network",
+      "Buildings",
+      "Crew roles",
+      "Research tree",
+      "Random events",
+      "Mission objectives",
+      "Save system"
+    ],
+    "advanced": "Production chains, priority routing, event simulation, data dashboards, multiple difficulty presets."
+  },
+  {
+    "name": "Voxel Frontier",
+    "genre": "Voxel Crafting Sandbox",
+    "inspired_by": "Block-building survival/crafting games",
+    "core_loop": "Explore a procedurally generated voxel world, gather materials, craft tools, build structures, and survive day/night cycles.",
+    "systems": [
+      "Chunk-based terrain",
+      "Mining and placing blocks",
+      "Crafting recipes",
+      "Inventory/hotbar",
+      "Health and hunger",
+      "Day/night cycle",
+      "Biomes",
+      "Simple creatures",
+      "Save/load world"
+    ],
+    "advanced": "Chunk streaming, seeded worlds, caves, trees, weather, building blueprints, difficulty settings, creative mode."
+  },
+  {
+    "name": "Metro Rush",
+    "genre": "Endless Runner",
+    "inspired_by": "Lane-based endless runners",
+    "core_loop": "Sprint through a city rail corridor, switch lanes, jump, slide, collect tokens, and dodge obstacles as speed increases.",
+    "systems": [
+      "3-lane movement",
+      "Jump/slide",
+      "Speed ramp",
+      "Coin chains",
+      "Power-ups",
+      "Missions",
+      "Character unlocks",
+      "Daily run",
+      "Local high score"
+    ],
+    "advanced": "Procedural obstacle patterns, hoverboard-style shield, score multiplier, magnet, temporary boost, responsive swipe/keyboard controls."
+  },
+  {
+    "name": "Block Battle Arena",
+    "genre": "Voxel Combat Arena",
+    "inspired_by": "Voxel sandbox PvP concepts",
+    "core_loop": "Build quick cover, gather pickups, and survive short rounds in destructible voxel arenas.",
+    "systems": [
+      "Destructible blocks",
+      "Build limits",
+      "Round timer",
+      "Pickups",
+      "Arena variants",
+      "Bots",
+      "Scoreboard"
+    ],
+    "advanced": "Bot pathfinding, shrinking arena, class loadouts, replayable seeds, spectator camera."
+  },
+  {
+    "name": "Street Dash X",
+    "genre": "Parkour Runner",
+    "inspired_by": "Arcade parkour runners",
+    "core_loop": "Run across rooftops, vault barriers, wall-run, zipline, and chain movement combos.",
+    "systems": [
+      "Momentum",
+      "Vault",
+      "Wall-run",
+      "Slide",
+      "Zipline",
+      "Combo score",
+      "Checkpoints",
+      "Time trials"
+    ],
+    "advanced": "Branching routes, ghost racing, trick multiplier, stamina-free flow design, speedrun medals."
+  },
+  {
+    "name": "Skyline Skater",
+    "genre": "Skate Runner",
+    "inspired_by": "Arcade skating and endless runners",
+    "core_loop": "Skate through futuristic streets, grind rails, jump gaps, collect energy, and land trick chains.",
+    "systems": [
+      "Grinding",
+      "Ollies",
+      "Trick combos",
+      "Boost",
+      "Rail branches",
+      "Collectibles",
+      "Mission objectives"
+    ],
+    "advanced": "Combo decay, manual balance meter, route mastery, board upgrades, trick challenges."
+  },
+  {
+    "name": "Roadstorm",
+    "genre": "Arcade Driving",
+    "inspired_by": "Traffic-dodging racing games",
+    "core_loop": "Drive through dense traffic, overtake safely, earn near-miss bonuses, and reach checkpoints before time expires.",
+    "systems": [
+      "Traffic AI",
+      "Lane changes",
+      "Boost",
+      "Near-miss score",
+      "Car handling",
+      "Upgrades",
+      "Weather"
+    ],
+    "advanced": "Dynamic traffic density, multiple car classes, day/night, rain handling, replay ghost."
+  },
+  {
+    "name": "Island Builder",
+    "genre": "Survival Builder",
+    "inspired_by": "Survival crafting games",
+    "core_loop": "Gather wood, stone, food, and water on islands, craft tools, build shelter, and sail to new zones.",
+    "systems": [
+      "Resource gathering",
+      "Crafting",
+      "Building",
+      "Fishing",
+      "Simple farming",
+      "Boat travel",
+      "Inventory",
+      "Day/night"
+    ],
+    "advanced": "Island generation, storms, crafting tiers, map discovery, co-op concept."
+  },
+  {
+    "name": "Dungeon Blocks",
+    "genre": "Voxel Dungeon Crawler",
+    "inspired_by": "Block worlds + dungeon adventures",
+    "core_loop": "Explore voxel dungeons, solve switches, collect loot, fight simple enemies, and unlock deeper floors.",
+    "systems": [
+      "Procedural rooms",
+      "Keys/doors",
+      "Loot",
+      "Enemy AI",
+      "Traps",
+      "Boss rooms",
+      "Inventory"
+    ],
+    "advanced": "Room modifiers, difficulty scaling, class perks, random seeds, permadeath mode."
+  },
+  {
+    "name": "Turbo Kart Lab",
+    "genre": "Kart Racing",
+    "inspired_by": "Arcade kart racers",
+    "core_loop": "Race compact tracks, drift for boosts, use non-violent utility items, and master shortcuts.",
+    "systems": [
+      "Drift boost",
+      "Track hazards",
+      "Pickup items",
+      "AI racers",
+      "Lap times",
+      "Shortcuts",
+      "Time trial"
+    ],
+    "advanced": "Rubber-banding options, ghost laps, kart stats, track editor concept, local tournament."
+  },
+  {
+    "name": "Rocket League Lab",
+    "genre": "Vehicle Soccer",
+    "inspired_by": "Car-soccer games",
+    "core_loop": "Use small boost-powered cars to hit a large ball into goals in short arena matches.",
+    "systems": [
+      "Car physics",
+      "Ball physics",
+      "Boost pads",
+      "Goals",
+      "AI opponents",
+      "Match timer",
+      "Training mode"
+    ],
+    "advanced": "Aerial-lite controls, wall driving, replay camera, shot trainer, bot difficulty."
+  },
+  {
+    "name": "Castle Siege Builder",
+    "genre": "Build-and-Defend",
+    "inspired_by": "Base defense and sandbox building games",
+    "core_loop": "Build walls and towers before each wave, then defend against fantasy creatures.",
+    "systems": [
+      "Building grid",
+      "Resource economy",
+      "Tower types",
+      "Wave AI",
+      "Repairs",
+      "Upgrades",
+      "Boss waves"
+    ],
+    "advanced": "Pathfinding, destructible walls, trap synergies, survival mode, scenario editor."
+  },
+  {
+    "name": "FarmCraft",
+    "genre": "Cozy Farming Sandbox",
+    "inspired_by": "Farming and crafting games",
+    "core_loop": "Plant crops, craft tools, build a farm, complete town requests, and expand land.",
+    "systems": [
+      "Crop growth",
+      "Seasons",
+      "Crafting",
+      "Animals",
+      "Requests",
+      "Upgrades",
+      "Decoration"
+    ],
+    "advanced": "Weather, soil quality, recipe chains, relationship-free town reputation, market simulation."
+  },
+  {
+    "name": "Ocean Craft",
+    "genre": "Raft Survival",
+    "inspired_by": "Ocean survival crafting games",
+    "core_loop": "Collect floating resources, expand a raft, purify water, grow food, and explore islands.",
+    "systems": [
+      "Raft building",
+      "Hook gathering",
+      "Water/food",
+      "Crafting",
+      "Sailing",
+      "Island exploration",
+      "Storage"
+    ],
+    "advanced": "Ocean events, modular raft, navigation map, storm preparedness, save slots."
+  },
+  {
+    "name": "City Driver",
+    "genre": "Open City Driving",
+    "inspired_by": "Open-world driving sandboxes",
+    "core_loop": "Drive around a stylized city completing delivery, taxi, time-trial, and parking challenges.",
+    "systems": [
+      "Traffic",
+      "Map",
+      "Missions",
+      "Car selection",
+      "Parking scoring",
+      "Fuel-free arcade handling"
+    ],
+    "advanced": "Day/night, weather, route planner, police-free safe driving challenges, city exploration collectibles."
+  },
+  {
+    "name": "Parkour Tower",
+    "genre": "Precision Platformer",
+    "inspired_by": "Obstacle-course tower games",
+    "core_loop": "Climb a vertical tower full of moving platforms, timed doors, wall jumps, and checkpoint choices.",
+    "systems": [
+      "Checkpoints",
+      "Moving platforms",
+      "Wall jump",
+      "Timed sections",
+      "Speedrun timer",
+      "Difficulty floors"
+    ],
+    "advanced": "Daily tower seeds, ghost runs, accessibility checkpoints, custom tower creator concept."
+  },
+  {
+    "name": "Battle Tiles",
+    "genre": "Last-Player-Standing Strategy",
+    "inspired_by": "Battle royale pacing without firearms",
+    "core_loop": "Stay on a shrinking arena of disappearing tiles while using movement abilities and traps.",
+    "systems": [
+      "Shrinking map",
+      "Dash",
+      "Jump",
+      "Trap tiles",
+      "Pickups",
+      "Round eliminations",
+      "Bots"
+    ],
+    "advanced": "Procedural arenas, ability cooldowns, ranked score concept, spectator mode."
+  },
+  {
+    "name": "Creature Tamer Lab",
+    "genre": "Collection RPG",
+    "inspired_by": "Creature-collection adventures",
+    "core_loop": "Explore zones, discover original creatures, train them through mini-games, and solve type-based battles.",
+    "systems": [
+      "Creature collection",
+      "Types",
+      "Turn-based battles",
+      "Exploration",
+      "Evolution-style upgrades",
+      "Quests"
+    ],
+    "advanced": "Original creature roster, skill trees, habitat system, team synergy, no copied characters."
+  },
+  {
+    "name": "Theme Park Builder",
+    "genre": "Management Sim",
+    "inspired_by": "Theme-park tycoon games",
+    "core_loop": "Design paths, rides, shops, queues, and staffing while keeping a fictional park efficient.",
+    "systems": [
+      "Grid building",
+      "Guest flow",
+      "Queues",
+      "Ride stats",
+      "Budget",
+      "Staff",
+      "Research"
+    ],
+    "advanced": "Heatmaps, breakdown events, weather, sandbox mode, challenge scenarios."
+  },
+  {
+    "name": "Mini Golf World",
+    "genre": "Physics Sports",
+    "inspired_by": "Arcade mini-golf games",
+    "core_loop": "Aim shots through creative courses with ramps, portals, moving gates, and hazards.",
+    "systems": [
+      "Shot power",
+      "Aim line",
+      "Physics",
+      "Par scoring",
+      "Course themes",
+      "Unlocks"
+    ],
+    "advanced": "Course editor, ghost ball, trick-shot challenges, multiplayer-turn concept."
+  },
+  {
+    "name": "Snowboard Rush",
+    "genre": "Downhill Sports",
+    "inspired_by": "Endless downhill arcade games",
+    "core_loop": "Carve down mountains, dodge trees and rocks, hit ramps, and chain tricks.",
+    "systems": [
+      "Carving",
+      "Jump tricks",
+      "Speed",
+      "Avalanche chase",
+      "Collectibles",
+      "Missions"
+    ],
+    "advanced": "Procedural mountain sections, weather, trick combos, board stats, replay camera."
+  }
+]

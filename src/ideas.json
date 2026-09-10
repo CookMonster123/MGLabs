@@ -1,0 +1,325 @@
+{
+  "games": [
+    {
+      "name": "Pulse Runner",
+      "genre": "Reflex",
+      "idea": "Dodge shifting laser gates while the beat changes the safe lane timing.",
+      "hook": "Short rounds, speed ramps, perfect-dodge streaks."
+    },
+    {
+      "name": "Grid Strike",
+      "genre": "Strategy",
+      "idea": "Capture a glowing grid by placing limited energy nodes that chain into combos.",
+      "hook": "Easy rules, deeper placement strategy."
+    },
+    {
+      "name": "Orbit Dash",
+      "genre": "Physics",
+      "idea": "Slingshot between planets and collect energy without crashing into gravity wells.",
+      "hook": "One-button launch with skillful timing."
+    },
+    {
+      "name": "Code Circuit",
+      "genre": "Logic",
+      "idea": "Route robots through circuits by arranging simple programming blocks.",
+      "hook": "Coding concepts hidden inside puzzle gameplay."
+    },
+    {
+      "name": "Tower Shift",
+      "genre": "Puzzle",
+      "idea": "Rotate tower floors to line up paths before time runs out.",
+      "hook": "Fast spatial puzzles with escalating floors."
+    },
+    {
+      "name": "Neon Goal",
+      "genre": "Sports",
+      "idea": "Top-down futuristic soccer where walls, boosts, and ricochets matter.",
+      "hook": "Arcade soccer with physics and trick shots."
+    },
+    {
+      "name": "Micro Manager",
+      "genre": "Tycoon",
+      "idea": "Run a tiny startup from a dorm-style workspace, balancing users, cash, bugs, and time.",
+      "hook": "Short business decisions with visible consequences."
+    },
+    {
+      "name": "Signal Lost",
+      "genre": "Mystery",
+      "idea": "Repair a communications station by decoding strange signals and solving logic puzzles.",
+      "hook": "Story mystery mixed with engineering puzzles."
+    },
+    {
+      "name": "Packet Panic",
+      "genre": "Cyber",
+      "idea": "Defend a network by identifying safe, suspicious, and malicious packets in real time.",
+      "hook": "Defensive cybersecurity learning through arcade play."
+    },
+    {
+      "name": "Bot Builder Arena",
+      "genre": "Engineering",
+      "idea": "Assemble a virtual robot, choose sensors, then test it in obstacle arenas.",
+      "hook": "Build-first, battle-second robotics sandbox."
+    },
+    {
+      "name": "Eco City",
+      "genre": "Simulation",
+      "idea": "Grow a city while balancing cost, power, transit, waste, and emissions.",
+      "hook": "Every upgrade creates tradeoffs."
+    },
+    {
+      "name": "Study Sprint",
+      "genre": "Productivity Game",
+      "idea": "Turn a real 15-minute focus session into an in-game run with checkpoints and rewards.",
+      "hook": "Real study effort powers the game."
+    },
+    {
+      "name": "Typing Drift",
+      "genre": "Typing",
+      "idea": "Drive a hover car by typing commands accurately before each turn.",
+      "hook": "Typing speed directly controls racing performance."
+    },
+    {
+      "name": "Memory Forge",
+      "genre": "Memory",
+      "idea": "Rebuild broken machines by remembering sequences of shapes, sounds, and patterns.",
+      "hook": "Memory training disguised as a repair game."
+    },
+    {
+      "name": "Quiz Quest",
+      "genre": "Adventure",
+      "idea": "Explore a map where doors, battles, and upgrades are unlocked by answering custom questions.",
+      "hook": "Can turn any school topic into a game."
+    },
+    {
+      "name": "Data Diver",
+      "genre": "Exploration",
+      "idea": "Dive through a 3D-style data ocean, finding anomalies and interpreting charts.",
+      "hook": "Data literacy as exploration."
+    },
+    {
+      "name": "Astro Colony",
+      "genre": "Builder",
+      "idea": "Build a tiny moon colony with limited oxygen, energy, water, and crew capacity.",
+      "hook": "Simple resource balancing with science flavor."
+    },
+    {
+      "name": "Traffic Logic",
+      "genre": "Puzzle",
+      "idea": "Program traffic lights to move cars efficiently without causing gridlock.",
+      "hook": "Optimization puzzle with instantly visible results."
+    },
+    {
+      "name": "Shadow Protocol",
+      "genre": "Stealth",
+      "idea": "Navigate a digital facility without triggering cameras, using timing and route planning.",
+      "hook": "Stealth without violence, focused on systems thinking."
+    },
+    {
+      "name": "Pixel Architect",
+      "genre": "Creative",
+      "idea": "Build tiny rooms, labs, and cities under size and budget constraints.",
+      "hook": "Creative sandbox plus design challenges."
+    },
+    {
+      "name": "Reaction Lab",
+      "genre": "Science",
+      "idea": "Mix safe virtual variables and predict what happens before revealing the simulated outcome.",
+      "hook": "Hypothesis-first science gameplay."
+    },
+    {
+      "name": "Drone Path",
+      "genre": "Navigation",
+      "idea": "Plan the safest route for a virtual drone through wind zones and obstacles.",
+      "hook": "Path planning and physics."
+    },
+    {
+      "name": "Market Rush",
+      "genre": "Economy",
+      "idea": "Buy and sell fictional goods as prices change based on simulated events.",
+      "hook": "Economics basics without real financial risk."
+    },
+    {
+      "name": "Defense Line",
+      "genre": "Tower Defense",
+      "idea": "Defend a data center from waves of bugs using patches, firewalls, backups, and monitoring tools.",
+      "hook": "Cyber concepts reimagined as tower defense."
+    },
+    {
+      "name": "Bug Hunt",
+      "genre": "Coding",
+      "idea": "Find the smallest bug in short code snippets before the timer expires.",
+      "hook": "Debugging as a score-chasing game."
+    },
+    {
+      "name": "AI Trainer",
+      "genre": "AI Literacy",
+      "idea": "Sort examples into categories and watch a simple simulated model improve or fail.",
+      "hook": "Teaches data quality and bias through play."
+    },
+    {
+      "name": "Lab Escape",
+      "genre": "Escape Room",
+      "idea": "Escape a virtual science lab using clues hidden in graphs, formulas, and device readouts.",
+      "hook": "Cross-subject puzzle room."
+    },
+    {
+      "name": "Career Quest",
+      "genre": "Choice Adventure",
+      "idea": "Choose classes, projects, internships, and skills in a fictional career journey.",
+      "hook": "Explore paths without pretending there is one perfect route."
+    },
+    {
+      "name": "Space Relay",
+      "genre": "Co-op Concept",
+      "idea": "Two players keep a space station online by handling different systems under pressure.",
+      "hook": "Communication and teamwork."
+    },
+    {
+      "name": "One Button Hero",
+      "genre": "Minimalist",
+      "idea": "Everything\u2014jump, dash, interact\u2014uses one button based on timing and context.",
+      "hook": "Extremely simple controls, deep mastery."
+    },
+    {
+      "name": "Metro Maze",
+      "genre": "Route Puzzle",
+      "idea": "Build transit routes that connect destinations with limited track pieces.",
+      "hook": "Clean planning puzzle with efficiency scoring."
+    },
+    {
+      "name": "Formula Rush",
+      "genre": "Math",
+      "idea": "Race by choosing the correct operation or formula at each checkpoint.",
+      "hook": "Quick math practice with speed."
+    },
+    {
+      "name": "Weather Works",
+      "genre": "Simulation",
+      "idea": "Control fictional weather variables to meet farming, city, and energy goals.",
+      "hook": "Systems thinking around weather tradeoffs."
+    },
+    {
+      "name": "Server Room",
+      "genre": "Management",
+      "idea": "Keep a virtual service online while handling traffic spikes, outages, updates, and limited budget.",
+      "hook": "Beginner systems engineering tycoon."
+    },
+    {
+      "name": "Project Zero",
+      "genre": "Builder Challenge",
+      "idea": "Start with a random problem and build the smallest useful solution before the countdown ends.",
+      "hook": "Rapid prototyping as gameplay."
+    },
+    {
+      "name": "Robo Rally Lab",
+      "genre": "Racing",
+      "idea": "Program simple movement commands before a robot race begins, then watch the result.",
+      "hook": "Plan first, execute second."
+    },
+    {
+      "name": "Hidden Variable",
+      "genre": "Deduction",
+      "idea": "Figure out which variable is changing a simulated experiment from limited observations.",
+      "hook": "Scientific reasoning mystery."
+    },
+    {
+      "name": "Campus Builder",
+      "genre": "Management",
+      "idea": "Design a fictional school campus balancing space, clubs, classes, technology, and student needs.",
+      "hook": "Creative planning and tradeoffs."
+    },
+    {
+      "name": "Cloud Climber",
+      "genre": "Platformer",
+      "idea": "Climb through floating server islands where each zone represents a computing concept.",
+      "hook": "Platforming with light tech learning."
+    },
+    {
+      "name": "Mission Control",
+      "genre": "Operations",
+      "idea": "Manage a fictional launch using checklists, telemetry, timing, and team decisions.",
+      "hook": "High-pressure systems thinking."
+    }
+  ],
+  "categories": {
+    "AI & Learning": [
+      "AI study coach that converts one topic into explain/example/quiz/flashcards modes",
+      "Homework understanding mode that gives hints before answers",
+      "AI debate practice with claim/evidence/counterclaim scoring",
+      "Personal learning map showing mastered, learning, and next skills",
+      "AI presentation rehearsal with timer and likely audience questions",
+      "AI notebook that turns pasted notes into an interactive study dashboard",
+      "Teacher-safe assignment helper that focuses on explanation rather than copying"
+    ],
+    "Coding & Builder": [
+      "Browser coding playground with JavaScript/HTML/CSS mini challenges",
+      "Bug Hunt daily debugging challenge",
+      "Project generator with beginner/intermediate/advanced scopes",
+      "Game mechanic sandbox for testing movement, scoring, timers, and enemies",
+      "Portfolio case-study generator using only user-supplied facts",
+      "MVP planner that turns an idea into milestones and risks",
+      "Code history view that shows what changed between saved versions"
+    ],
+    "Engineering & Hardware": [
+      "Device Lab scenario presets: classroom, greenhouse, server room, weather station",
+      "Virtual robot builder with sensor and motor choices",
+      "Telemetry replay mode with pause/scrub/compare",
+      "Threshold challenge mode where users predict alerts before starting",
+      "Sensor anomaly hunt using simulated noisy data",
+      "Engineering notebook for hypotheses, tests, observations, and next checks",
+      "Virtual IoT dashboard designer"
+    ],
+    "Community": [
+      "Project showcase wall",
+      "Weekly build challenge",
+      "Peer feedback templates",
+      "Class or club channels",
+      "Safe idea voting board",
+      "Community milestones and featured projects",
+      "Mentor Q&A board with verified roles only"
+    ],
+    "Arcade & Games": [
+      "Pulse Runner",
+      "Grid Strike",
+      "Orbit Dash",
+      "Code Circuit",
+      "Tower Shift",
+      "Neon Goal",
+      "Micro Manager",
+      "Signal Lost",
+      "Packet Panic",
+      "Bot Builder Arena",
+      "Eco City",
+      "Study Sprint",
+      "Typing Drift",
+      "Memory Forge",
+      "Quiz Quest",
+      "Data Diver",
+      "Astro Colony",
+      "Traffic Logic",
+      "Shadow Protocol",
+      "Pixel Architect"
+    ],
+    "Career & Opportunities": [
+      "Career skill-tree explorer",
+      "Program/application tracker",
+      "Scholarship checklist workspace",
+      "Internship preparation simulator",
+      "Interview practice rounds",
+      "Resume bullet builder",
+      "Project-to-career connection map"
+    ],
+    "Platform": [
+      "Universal command palette",
+      "Recent activity timeline",
+      "Favorite apps",
+      "Pinned workspace",
+      "Global search across apps and history",
+      "Theme presets",
+      "Offline-friendly demo mode",
+      "Accessibility controls",
+      "Public changelog",
+      "What changed since last visit card"
+    ]
+  }
+}

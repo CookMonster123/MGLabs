@@ -1,0 +1,502 @@
+[
+  {
+    "path": ".env.example",
+    "bytes": 48
+  },
+  {
+    "path": ".github/workflows/build.yml",
+    "bytes": 463
+  },
+  {
+    "path": ".github/workflows/deploy-pages.yml",
+    "bytes": 1033
+  },
+  {
+    "path": ".github/workflows/quality-checks.yml",
+    "bytes": 345
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 64
+  },
+  {
+    "path": "BUILD_STATUS_v14.md",
+    "bytes": 819
+  },
+  {
+    "path": "FILE_INDEX.json",
+    "bytes": 8534
+  },
+  {
+    "path": "FULL_FILE_STRUCTURE.txt",
+    "bytes": 4405
+  },
+  {
+    "path": "GAME_DESIGN_NOTES.md",
+    "bytes": 660
+  },
+  {
+    "path": "HOW_TO_UPLOAD_TO_GITHUB.md",
+    "bytes": 468
+  },
+  {
+    "path": "IMPLEMENTATION_STATUS_v13.json",
+    "bytes": 3994
+  },
+  {
+    "path": "LICENSE_SUBWAY_REFERENCE.txt",
+    "bytes": 285
+  },
+  {
+    "path": "MASTER_SECTION_CHECKLIST.json",
+    "bytes": 2086
+  },
+  {
+    "path": "PUBLIC_GAMES_GUIDE.md",
+    "bytes": 1364
+  },
+  {
+    "path": "README.md",
+    "bytes": 9116
+  },
+  {
+    "path": "THIRD_PARTY_RESEARCH.md",
+    "bytes": 1400
+  },
+  {
+    "path": "docs/apps/01_HOME_PLAN.md",
+    "bytes": 189
+  },
+  {
+    "path": "docs/apps/02_LAUNCHPAD_PLAN.md",
+    "bytes": 108
+  },
+  {
+    "path": "docs/apps/03_ARCADE_PLAN.md",
+    "bytes": 220
+  },
+  {
+    "path": "docs/apps/04_RETROVAULT_PLAN.md",
+    "bytes": 191
+  },
+  {
+    "path": "docs/apps/05_BRIGHTPATH_PLAN.md",
+    "bytes": 221
+  },
+  {
+    "path": "docs/apps/06_CODECOACH_PLAN.md",
+    "bytes": 234
+  },
+  {
+    "path": "docs/apps/07_PROJECTFORGE_PLAN.md",
+    "bytes": 245
+  },
+  {
+    "path": "docs/apps/08_DEVICELAB_PLAN.md",
+    "bytes": 253
+  },
+  {
+    "path": "docs/apps/09_COMMUNITY_PLAN.md",
+    "bytes": 194
+  },
+  {
+    "path": "docs/apps/10_CAREERQUEST_PLAN.md",
+    "bytes": 221
+  },
+  {
+    "path": "docs/apps/11_PORTFOLIO_PLAN.md",
+    "bytes": 196
+  },
+  {
+    "path": "docs/apps/12_SCHOOLTOOLS_PLAN.md",
+    "bytes": 239
+  },
+  {
+    "path": "docs/apps/13_CREATIVELAB_PLAN.md",
+    "bytes": 233
+  },
+  {
+    "path": "docs/apps/14_APPSTORE_PLAN.md",
+    "bytes": 173
+  },
+  {
+    "path": "docs/apps/15_DEVELOPER_PLAN.md",
+    "bytes": 176
+  },
+  {
+    "path": "docs/apps/16_SETTINGS_PLAN.md",
+    "bytes": 135
+  },
+  {
+    "path": "docs/apps/ARCADE.md",
+    "bytes": 130
+  },
+  {
+    "path": "docs/apps/BRIGHTPATH.md",
+    "bytes": 136
+  },
+  {
+    "path": "docs/apps/CAREERQUEST.md",
+    "bytes": 119
+  },
+  {
+    "path": "docs/apps/CODECOACH.md",
+    "bytes": 115
+  },
+  {
+    "path": "docs/apps/COMMUNITY.md",
+    "bytes": 121
+  },
+  {
+    "path": "docs/apps/DEVICE_LAB.md",
+    "bytes": 125
+  },
+  {
+    "path": "docs/apps/PORTFOLIOBUILDER.md",
+    "bytes": 132
+  },
+  {
+    "path": "docs/apps/PROJECTFORGE.md",
+    "bytes": 110
+  },
+  {
+    "path": "docs/apps/RESEARCHBUDDY.md",
+    "bytes": 129
+  },
+  {
+    "path": "docs/architecture/FILE_STRUCTURE.md",
+    "bytes": 816
+  },
+  {
+    "path": "docs/architecture/MASTER_PLAN_v12.md",
+    "bytes": 3285
+  },
+  {
+    "path": "docs/architecture/NEXT_BUILD_ORDER.md",
+    "bytes": 553
+  },
+  {
+    "path": "docs/games/CLASSIC_GAME_BRAINSTORM.md",
+    "bytes": 5170
+  },
+  {
+    "path": "docs/games/GAME_INTEGRATION_RULES.md",
+    "bytes": 1445
+  },
+  {
+    "path": "docs/games/GAME_LIBRARY_PLAN.md",
+    "bytes": 1151
+  },
+  {
+    "path": "docs/games/MEGA_ARCADE_CATALOG.md",
+    "bytes": 568
+  },
+  {
+    "path": "docs/games/MULTIPLAYER_HUB.md",
+    "bytes": 550
+  },
+  {
+    "path": "docs/games/RETRO_VAULT_SOURCES.md",
+    "bytes": 5536
+  },
+  {
+    "path": "docs/github/GITHUB_SETUP.md",
+    "bytes": 1098
+  },
+  {
+    "path": "docs/github/UPLOAD_CHECKLIST.md",
+    "bytes": 446
+  },
+  {
+    "path": "docs/ideas/AI_LEARNING_IDEAS.md",
+    "bytes": 390
+  },
+  {
+    "path": "docs/ideas/BRAINSTORM_SUMMARY.md",
+    "bytes": 354
+  },
+  {
+    "path": "docs/ideas/CAREER_IDEAS.md",
+    "bytes": 289
+  },
+  {
+    "path": "docs/ideas/CODING_IDEAS.md",
+    "bytes": 355
+  },
+  {
+    "path": "docs/ideas/COMMUNITY_IDEAS.md",
+    "bytes": 267
+  },
+  {
+    "path": "docs/ideas/HARDWARE_IDEAS.md",
+    "bytes": 351
+  },
+  {
+    "path": "docs/ideas/MEGA_BRAINSTORM.md",
+    "bytes": 8561
+  },
+  {
+    "path": "docs/ideas/NIGHT_BRAINSTORM_SUMMARY_v19.json",
+    "bytes": 198
+  },
+  {
+    "path": "docs/ideas/NIGHT_BRAINSTORM_v19.md",
+    "bytes": 28091
+  },
+  {
+    "path": "docs/ideas/PLATFORM_IDEAS.md",
+    "bytes": 383
+  },
+  {
+    "path": "docs/ideas/PRIORITY_ROADMAP.md",
+    "bytes": 799
+  },
+  {
+    "path": "index.html",
+    "bytes": 1247
+  },
+  {
+    "path": "package.json",
+    "bytes": 567
+  },
+  {
+    "path": "public/404.html",
+    "bytes": 205
+  },
+  {
+    "path": "public/CNAME.example",
+    "bytes": 15
+  },
+  {
+    "path": "public/mglabs-logo.svg",
+    "bytes": 455
+  },
+  {
+    "path": "src/App.tsx",
+    "bytes": 29637
+  },
+  {
+    "path": "src/achievements/achievements.json",
+    "bytes": 1121
+  },
+  {
+    "path": "src/advanced-games.json",
+    "bytes": 16126
+  },
+  {
+    "path": "src/ai/brightpath-modes.json",
+    "bytes": 319
+  },
+  {
+    "path": "src/ai/subjects.json",
+    "bytes": 312
+  },
+  {
+    "path": "src/app/navigation.json",
+    "bytes": 967
+  },
+  {
+    "path": "src/app-advancements.json",
+    "bytes": 2186
+  },
+  {
+    "path": "src/apps/catalog/apps.json",
+    "bytes": 2923
+  },
+  {
+    "path": "src/apps.json",
+    "bytes": 6226
+  },
+  {
+    "path": "src/career/careers.json",
+    "bytes": 166
+  },
+  {
+    "path": "src/classic-game-brainstorm-v11.json",
+    "bytes": 6364
+  },
+  {
+    "path": "src/community/channels.json",
+    "bytes": 126
+  },
+  {
+    "path": "src/components/MetroRush.tsx",
+    "bytes": 4713
+  },
+  {
+    "path": "src/components/SearchBar.tsx",
+    "bytes": 643
+  },
+  {
+    "path": "src/components/StatusBadge.tsx",
+    "bytes": 251
+  },
+  {
+    "path": "src/components/VoxelFrontier.tsx",
+    "bytes": 1963
+  },
+  {
+    "path": "src/data/brainstorm-v10.json",
+    "bytes": 10331
+  },
+  {
+    "path": "src/data/game-categories.json",
+    "bytes": 1533
+  },
+  {
+    "path": "src/data/game-expansion-v16.json",
+    "bytes": 1085
+  },
+  {
+    "path": "src/data/idea-bank.json",
+    "bytes": 2515
+  },
+  {
+    "path": "src/data/night-brainstorm-v19.json",
+    "bytes": 655376
+  },
+  {
+    "path": "src/games/catalog/games.json",
+    "bytes": 7021
+  },
+  {
+    "path": "src/games/catalog/mega-games.json",
+    "bytes": 801751
+  },
+  {
+    "path": "src/games/catalog/multiplayer-games.json",
+    "bytes": 761942
+  },
+  {
+    "path": "src/games/imports/importer-spec.md",
+    "bytes": 458
+  },
+  {
+    "path": "src/games/player/GameDetail.tsx",
+    "bytes": 1008
+  },
+  {
+    "path": "src/hardware/scenarios.json",
+    "bytes": 114
+  },
+  {
+    "path": "src/ideas.json",
+    "bytes": 12068
+  },
+  {
+    "path": "src/internet-inspirations.json",
+    "bytes": 2552
+  },
+  {
+    "path": "src/lib/storage.ts",
+    "bytes": 538
+  },
+  {
+    "path": "src/main.tsx",
+    "bytes": 200
+  },
+  {
+    "path": "src/pages/AppStore/AppStorePage.tsx",
+    "bytes": 574
+  },
+  {
+    "path": "src/pages/Arcade/ArcadePage.tsx",
+    "bytes": 619
+  },
+  {
+    "path": "src/pages/BrightPath/BrightPathPage.tsx",
+    "bytes": 639
+  },
+  {
+    "path": "src/pages/CareerQuest/CareerQuestPage.tsx",
+    "bytes": 596
+  },
+  {
+    "path": "src/pages/CodeCoach/CodeCoachPage.tsx",
+    "bytes": 636
+  },
+  {
+    "path": "src/pages/Community/CommunityPage.tsx",
+    "bytes": 566
+  },
+  {
+    "path": "src/pages/CreativeLab/CreativeLabPage.tsx",
+    "bytes": 623
+  },
+  {
+    "path": "src/pages/Developer/DeveloperPage.tsx",
+    "bytes": 533
+  },
+  {
+    "path": "src/pages/DeviceLab/DeviceLabPage.tsx",
+    "bytes": 656
+  },
+  {
+    "path": "src/pages/Home/HomePage.tsx",
+    "bytes": 526
+  },
+  {
+    "path": "src/pages/Launchpad/LaunchpadPage.tsx",
+    "bytes": 390
+  },
+  {
+    "path": "src/pages/Portfolio/PortfolioPage.tsx",
+    "bytes": 583
+  },
+  {
+    "path": "src/pages/ProjectForge/ProjectForgePage.tsx",
+    "bytes": 665
+  },
+  {
+    "path": "src/pages/RetroVault/RetroVaultPage.tsx",
+    "bytes": 549
+  },
+  {
+    "path": "src/pages/SchoolTools/SchoolToolsPage.tsx",
+    "bytes": 629
+  },
+  {
+    "path": "src/pages/Settings/SettingsPage.tsx",
+    "bytes": 446
+  },
+  {
+    "path": "src/portfolio/case-study-template.json",
+    "bytes": 152
+  },
+  {
+    "path": "src/public-games.json",
+    "bytes": 5659
+  },
+  {
+    "path": "src/retro-public-games.json",
+    "bytes": 15047
+  },
+  {
+    "path": "src/search/search.ts",
+    "bytes": 855
+  },
+  {
+    "path": "src/store/app-store-schema.json",
+    "bytes": 228
+  },
+  {
+    "path": "src/styles.css",
+    "bytes": 10652
+  },
+  {
+    "path": "src/system/feature-flags.json",
+    "bytes": 406
+  },
+  {
+    "path": "src/types/core.ts",
+    "bytes": 706
+  },
+  {
+    "path": "tsconfig.json",
+    "bytes": 405
+  },
+  {
+    "path": "vite.config.ts",
+    "bytes": 187
+  }
+]

@@ -1,7 +1,0 @@
-Reference only — not bundled game code.
-
-RohanChacko/Subway-Surfers uses the MIT License for its repository software.
-Copyright (c) 2019 Rohan Chacko.
-
-See the original repository LICENSE before reusing any code.
-This MGLabs package does not redistribute its unverified game assets.

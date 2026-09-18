@@ -1,6 +1,8 @@
 name = "mglabs"
-pages_build_output_dir = "./dist"
 compatibility_date = "2026-09-18"
 
-[ai]
-binding = "AI"
+[assets]
+directory = "./dist"
+
+[observability]
+enabled = true

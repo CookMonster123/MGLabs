@@ -1,0 +1,461 @@
+[
+  {
+    "name": "Kart Royale",
+    "category": "Kart Racing",
+    "source": "https://github.com/ryancampbell/kart-royale",
+    "license": "MIT",
+    "play": "https://racing.ryancampbell.com",
+    "era": "Modern open-source / classic-kart inspired",
+    "note": "Browser kart racer with runtime-generated art, sounds, tracks and effects."
+  },
+  {
+    "name": "GenerateRacer",
+    "category": "Kart Racing",
+    "source": "https://github.com/commjoen/generatedracer",
+    "license": "MIT",
+    "play": "",
+    "era": "Modern open-source / classic-kart inspired",
+    "note": "Browser kart racing with AI opponents, 3 laps, touch, keyboard, gamepad and peer-to-peer multiplayer."
+  },
+  {
+    "name": "HexGL",
+    "category": "Racing / 3D",
+    "source": "https://github.com/BKcore/HexGL",
+    "license": "MIT unless otherwise noted per file",
+    "play": "http://hexgl.bkcore.com",
+    "era": "2010s HTML5 classic",
+    "note": "Futuristic browser racing game."
+  },
+  {
+    "name": "MiniRacer",
+    "category": "Retro Racing",
+    "source": "https://github.com/mariohd/JSGames",
+    "license": "MIT",
+    "play": "",
+    "era": "90s-inspired",
+    "note": "Part of an MIT JavaScript/HTML5 game collection inspired by older arcade machines."
+  },
+  {
+    "name": "Retro Racer",
+    "category": "Retro Racing",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/retro-racer.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro-inspired",
+    "note": "Single-file browser racing game from 90s Games."
+  },
+  {
+    "name": "Time Racer",
+    "category": "Retro Racing",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/time-racer.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro-inspired",
+    "note": "Single-file racing/time-trial browser game."
+  },
+  {
+    "name": "90s Games",
+    "category": "Mega Library",
+    "source": "https://github.com/prateek121/90s-games",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro collection",
+    "note": "Large zero-dependency collection of single-file browser games."
+  },
+  {
+    "name": "Tiny Arcade",
+    "category": "Mega Library",
+    "source": "https://github.com/bite-arcade/tiny-arcade",
+    "license": "MIT + NOTICE",
+    "play": "",
+    "era": "Retro/pixel collection",
+    "note": "Large browser arcade library."
+  },
+  {
+    "name": "100 HTML Games Hub",
+    "category": "Mega Library",
+    "source": "https://github.com/shendds/100htmlgameshub",
+    "license": "MIT",
+    "play": "",
+    "era": "Classic browser collection",
+    "note": "100 playable vanilla HTML/CSS/JS games."
+  },
+  {
+    "name": "Mini Games",
+    "category": "Mega Library",
+    "source": "https://github.com/mazipan/mini-games",
+    "license": "MIT",
+    "play": "https://games.mazipan.space/",
+    "era": "Classic browser collection",
+    "note": "Curated collection of arcade, puzzle, board and word games."
+  },
+  {
+    "name": "Classic Games Collection",
+    "category": "Mega Library",
+    "source": "https://github.com/stphung/classic-games-collection",
+    "license": "MIT",
+    "play": "https://classic-games-collection-xi.vercel.app",
+    "era": "Classic arcade",
+    "note": "Eleven HTML5 Canvas arcade games with a launcher."
+  },
+  {
+    "name": "Game-Zone",
+    "category": "Mega Library",
+    "source": "https://github.com/StrataMind/Game-Zone",
+    "license": "MIT",
+    "play": "https://stratamind.github.io/Game-Zone/",
+    "era": "Browser arcade",
+    "note": "Collection of HTML/CSS/JS browser games."
+  },
+  {
+    "name": "Web Arcade",
+    "category": "Mega Library",
+    "source": "https://github.com/duysqubix/web-arcade",
+    "license": "MIT",
+    "play": "https://duysqubix.github.io/web-arcade",
+    "era": "Single-file arcade",
+    "note": "Zero-install single-file browser games."
+  },
+  {
+    "name": "Fun Games Hub",
+    "category": "Mega Library",
+    "source": "https://github.com/nxr-dine/fun-games-hub",
+    "license": "MIT",
+    "play": "",
+    "era": "Classic mini-games",
+    "note": "Browser collection including Tic Tac Toe, Rock Paper Scissors, Snake and Memory."
+  },
+  {
+    "name": "Games Website",
+    "category": "Mega Library",
+    "source": "https://github.com/ShacharDoron123/Games-website",
+    "license": "MIT",
+    "play": "https://shachardoron123.github.io/Games-website/",
+    "era": "Browser classics",
+    "note": "Small collection of browser games and quizzes."
+  },
+  {
+    "name": "2048",
+    "category": "Puzzle",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/2048.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro browser game",
+    "note": "Single-file game from the MIT-licensed 90s Games collection."
+  },
+  {
+    "name": "Asteroids-style",
+    "category": "Arcade",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/asteroids.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro browser game",
+    "note": "Single-file game from the MIT-licensed 90s Games collection."
+  },
+  {
+    "name": "Breakout",
+    "category": "Arcade",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/breakout.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro browser game",
+    "note": "Single-file game from the MIT-licensed 90s Games collection."
+  },
+  {
+    "name": "Brick Blaster",
+    "category": "Arcade",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/brick-blaster.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro browser game",
+    "note": "Single-file game from the MIT-licensed 90s Games collection."
+  },
+  {
+    "name": "Bullet Hell",
+    "category": "Action",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/bullet-hell.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro browser game",
+    "note": "Single-file game from the MIT-licensed 90s Games collection."
+  },
+  {
+    "name": "Cartridge Dash",
+    "category": "Runner",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/cartridge-dash.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro browser game",
+    "note": "Single-file game from the MIT-licensed 90s Games collection."
+  },
+  {
+    "name": "Cipher Crack",
+    "category": "Puzzle",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/cipher-crack.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro browser game",
+    "note": "Single-file game from the MIT-licensed 90s Games collection."
+  },
+  {
+    "name": "Code Runner",
+    "category": "Runner",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/code-runner.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro browser game",
+    "note": "Single-file game from the MIT-licensed 90s Games collection."
+  },
+  {
+    "name": "Color Match",
+    "category": "Puzzle",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/color-match.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro browser game",
+    "note": "Single-file game from the MIT-licensed 90s Games collection."
+  },
+  {
+    "name": "Cyber Rush",
+    "category": "Runner",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/cyber-rush.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro browser game",
+    "note": "Single-file game from the MIT-licensed 90s Games collection."
+  },
+  {
+    "name": "Digital Maze",
+    "category": "Puzzle",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/digital-maze.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro browser game",
+    "note": "Single-file game from the MIT-licensed 90s Games collection."
+  },
+  {
+    "name": "Flappy",
+    "category": "Arcade",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/flappy.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro browser game",
+    "note": "Single-file game from the MIT-licensed 90s Games collection."
+  },
+  {
+    "name": "Frogger-style",
+    "category": "Arcade",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/frogger.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro browser game",
+    "note": "Single-file game from the MIT-licensed 90s Games collection."
+  },
+  {
+    "name": "Gravity Ball",
+    "category": "Physics",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/gravity-ball.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro browser game",
+    "note": "Single-file game from the MIT-licensed 90s Games collection."
+  },
+  {
+    "name": "Tower of Hanoi",
+    "category": "Puzzle",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/hanoi.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro browser game",
+    "note": "Single-file game from the MIT-licensed 90s Games collection."
+  },
+  {
+    "name": "Hexagon Defense",
+    "category": "Strategy",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/hexagon-defense.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro browser game",
+    "note": "Single-file game from the MIT-licensed 90s Games collection."
+  },
+  {
+    "name": "Memory",
+    "category": "Puzzle",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/memory.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro browser game",
+    "note": "Single-file game from the MIT-licensed 90s Games collection."
+  },
+  {
+    "name": "Minesweeper",
+    "category": "Puzzle",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/minesweeper.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro browser game",
+    "note": "Single-file game from the MIT-licensed 90s Games collection."
+  },
+  {
+    "name": "Pac Maze",
+    "category": "Maze",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/pacman.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro browser game",
+    "note": "Single-file game from the MIT-licensed 90s Games collection."
+  },
+  {
+    "name": "2P Ping Pong",
+    "category": "Sports",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/ping-pong-2p.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro browser game",
+    "note": "Single-file game from the MIT-licensed 90s Games collection."
+  },
+  {
+    "name": "Pong-style",
+    "category": "Sports",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/pong.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro browser game",
+    "note": "Single-file game from the MIT-licensed 90s Games collection."
+  },
+  {
+    "name": "Pulse Runner",
+    "category": "Runner",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/pulse-runner.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro browser game",
+    "note": "Single-file game from the MIT-licensed 90s Games collection."
+  },
+  {
+    "name": "Rhythm Master",
+    "category": "Rhythm",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/rhythm-master.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro browser game",
+    "note": "Single-file game from the MIT-licensed 90s Games collection."
+  },
+  {
+    "name": "Simon-style",
+    "category": "Memory",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/simon.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro browser game",
+    "note": "Single-file game from the MIT-licensed 90s Games collection."
+  },
+  {
+    "name": "Snake",
+    "category": "Arcade",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/snake.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro browser game",
+    "note": "Single-file game from the MIT-licensed 90s Games collection."
+  },
+  {
+    "name": "Sokoban",
+    "category": "Puzzle",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/sokoban.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro browser game",
+    "note": "Single-file game from the MIT-licensed 90s Games collection."
+  },
+  {
+    "name": "Space Invaders-style",
+    "category": "Arcade",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/space-invaders.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro browser game",
+    "note": "Single-file game from the MIT-licensed 90s Games collection."
+  },
+  {
+    "name": "Tetris-style",
+    "category": "Puzzle",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/tetris.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro browser game",
+    "note": "Single-file game from the MIT-licensed 90s Games collection."
+  },
+  {
+    "name": "Whack-a-Mole",
+    "category": "Arcade",
+    "source": "https://github.com/prateek121/90s-games/blob/main/games/whack-a-mole.html",
+    "license": "MIT",
+    "play": "",
+    "era": "Retro browser game",
+    "note": "Single-file game from the MIT-licensed 90s Games collection."
+  },
+  {
+    "name": "Hextris",
+    "category": "Puzzle",
+    "source": "https://github.com/Hextris/hextris",
+    "license": "GPL-3.0",
+    "play": "https://hextris.github.io/hextris",
+    "era": "2014 browser classic",
+    "note": "Fast-paced hexagonal falling-block puzzle."
+  },
+  {
+    "name": "Radius Raid",
+    "category": "Arcade Shooter",
+    "source": "https://github.com/js13kGames/radius-raid",
+    "license": "MIT",
+    "play": "https://js13kgames.com/2013/games/radius-raid",
+    "era": "2013 js13kGames",
+    "note": "Compact HTML5 Canvas arcade game."
+  },
+  {
+    "name": "BrowserQuest",
+    "category": "RPG / Multiplayer",
+    "source": "https://github.com/mozilla/BrowserQuest",
+    "license": "Open source; verify exact notices",
+    "play": "",
+    "era": "2012 browser classic",
+    "note": "Mozilla multiplayer browser RPG."
+  },
+  {
+    "name": "Football Frenzy Arcade",
+    "category": "Sports",
+    "source": "https://github.com/Rishi713144/Football-Arcade",
+    "license": "MIT",
+    "play": "https://footballrishi.vercel.app/",
+    "era": "Modern browser sports",
+    "note": "Penalty shootout, keepie-uppie and football mini-games."
+  },
+  {
+    "name": "Soccer.js",
+    "category": "Sports / Multiplayer",
+    "source": "https://github.com/Mati365/Soccer.js",
+    "license": "MIT",
+    "play": "",
+    "era": "Browser soccer",
+    "note": "Open-source browser soccer project."
+  },
+  {
+    "name": "HTML5 Platformer",
+    "category": "Platformer",
+    "source": "https://github.com/ZeroDayArcade/HTML5_Platformer",
+    "license": "MIT; art/music separately credited",
+    "play": "https://zerodayarcade.com/demos/platformer",
+    "era": "Browser platformer",
+    "note": "Vanilla JavaScript side-scrolling platformer."
+  },
+  {
+    "name": "2048 Web Game",
+    "category": "Puzzle",
+    "source": "https://github.com/mahmudnibir/2048",
+    "license": "MIT",
+    "play": "https://mahmudnibir.github.io/2048/",
+    "era": "Modern web classic",
+    "note": "Responsive open-source 2048 implementation."
+  }
+]

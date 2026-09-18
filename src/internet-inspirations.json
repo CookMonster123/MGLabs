@@ -1,0 +1,88 @@
+[
+  {
+    "name": "HexGL",
+    "type": "Open-source browser racing inspiration",
+    "source": "GitHub HTML5 game lists",
+    "url": "https://github.com/BKcore/HexGL",
+    "learn": [
+      "WebGL racing feel",
+      "Futuristic UI",
+      "High-speed camera design"
+    ],
+    "note": "Use as design/engineering reference; do not copy assets/code without checking its license."
+  },
+  {
+    "name": "BrowserQuest",
+    "type": "Open-source multiplayer browser RPG inspiration",
+    "source": "Mozilla / GitHub",
+    "url": "https://github.com/mozilla/BrowserQuest",
+    "learn": [
+      "Realtime multiplayer architecture",
+      "Tile maps",
+      "Browser RPG interaction"
+    ],
+    "note": "Reference architecture and ideas; preserve license requirements if any code is reused."
+  },
+  {
+    "name": "Phaser",
+    "type": "Open-source HTML5 game framework",
+    "source": "GitHub",
+    "url": "https://github.com/phaserjs/phaser",
+    "learn": [
+      "Scene systems",
+      "Physics",
+      "Input",
+      "Asset loading"
+    ],
+    "note": "Framework inspiration for future advanced MGLabs games."
+  },
+  {
+    "name": "PlayCanvas Engine",
+    "type": "Open-source web 3D engine",
+    "source": "GitHub",
+    "url": "https://github.com/playcanvas/engine",
+    "learn": [
+      "WebGL/WebGPU-style 3D architecture",
+      "Entity/component systems",
+      "3D scenes"
+    ],
+    "note": "Useful reference for future 3D games."
+  },
+  {
+    "name": "Babylon.js",
+    "type": "Open-source 3D web engine",
+    "source": "GitHub",
+    "url": "https://github.com/BabylonJS/Babylon.js",
+    "learn": [
+      "3D rendering",
+      "Physics integration",
+      "Materials",
+      "Cameras"
+    ],
+    "note": "Potential future engine option for advanced browser experiences."
+  },
+  {
+    "name": "Zeli Web Games",
+    "type": "Open-source React mini-game collection",
+    "source": "GitHub",
+    "url": "https://github.com/hajunho/zeli-web-games",
+    "learn": [
+      "React + Canvas game structure",
+      "Small self-contained game components",
+      "Fast game gallery UX"
+    ],
+    "note": "Reference for project organization and mini-game patterns."
+  },
+  {
+    "name": "90s Games",
+    "type": "Open-source HTML5 Canvas collection",
+    "source": "GitHub",
+    "url": "https://github.com/prateek121/90s-games",
+    "learn": [
+      "Single-file game architecture",
+      "Canvas game loops",
+      "Local high scores"
+    ],
+    "note": "MIT-licensed according to its repository; still preserve required license notices if code is reused."
+  }
+]

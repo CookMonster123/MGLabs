@@ -1,0 +1,66 @@
+[
+  {
+    "label": "Home",
+    "path": "/"
+  },
+  {
+    "label": "Launchpad",
+    "path": "/launchpad"
+  },
+  {
+    "label": "Arcade",
+    "path": "/arcade"
+  },
+  {
+    "label": "Retro Vault",
+    "path": "/retro-vault"
+  },
+  {
+    "label": "BrightPath",
+    "path": "/brightpath"
+  },
+  {
+    "label": "CodeCoach",
+    "path": "/codecoach"
+  },
+  {
+    "label": "ProjectForge",
+    "path": "/projectforge"
+  },
+  {
+    "label": "Device Lab",
+    "path": "/device-lab"
+  },
+  {
+    "label": "Community",
+    "path": "/community"
+  },
+  {
+    "label": "CareerQuest",
+    "path": "/careerquest"
+  },
+  {
+    "label": "Portfolio",
+    "path": "/portfolio"
+  },
+  {
+    "label": "School Tools",
+    "path": "/school-tools"
+  },
+  {
+    "label": "Creative Lab",
+    "path": "/creative-lab"
+  },
+  {
+    "label": "Labs Store",
+    "path": "/store"
+  },
+  {
+    "label": "Developer",
+    "path": "/developer"
+  },
+  {
+    "label": "Settings",
+    "path": "/settings"
+  }
+]

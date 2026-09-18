@@ -1,0 +1,17 @@
+If the .github folder is hidden on your computer, use these visible copies.
+
+On GitHub, create these exact paths:
+
+.github/workflows/deploy-pages.yml
+.github/workflows/quality-checks.yml
+
+Copy the matching file contents from this folder into those paths.
+
+For GitHub Pages:
+1. Go to MGLabs -> Settings -> Pages.
+2. Under Build and deployment, choose GitHub Actions.
+3. Commit both workflow files to main.
+4. Open the Actions tab.
+5. Wait for "Deploy MGLabs to GitHub Pages" to finish.
+
+This package stays Version 22.

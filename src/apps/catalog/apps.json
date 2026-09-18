@@ -1,0 +1,106 @@
+[
+  {
+    "id": "brightpath",
+    "name": "BrightPath",
+    "category": "AI & Education",
+    "description": "AI tutoring, practice, study tools and learning modes.",
+    "status": "Prototype",
+    "route": "/brightpath"
+  },
+  {
+    "id": "codecoach",
+    "name": "CodeCoach",
+    "category": "Coding",
+    "description": "Coding playground, challenges, debugging and visualizers.",
+    "status": "Prototype",
+    "route": "/codecoach"
+  },
+  {
+    "id": "projectforge",
+    "name": "ProjectForge",
+    "category": "Productivity",
+    "description": "Project planning, Kanban, milestones, risks and build logs.",
+    "status": "Prototype",
+    "route": "/projectforge"
+  },
+  {
+    "id": "device-lab",
+    "name": "Device Lab",
+    "category": "Hardware",
+    "description": "Telemetry simulation, thresholds, charts and engineering experiments.",
+    "status": "Prototype",
+    "route": "/device-lab"
+  },
+  {
+    "id": "community",
+    "name": "Community",
+    "category": "Community",
+    "description": "Project showcase, channels, challenges and feedback.",
+    "status": "Planned",
+    "route": "/community"
+  },
+  {
+    "id": "careerquest",
+    "name": "CareerQuest",
+    "category": "Career",
+    "description": "Career exploration, skills, opportunities and planning.",
+    "status": "Planned",
+    "route": "/careerquest"
+  },
+  {
+    "id": "portfolio",
+    "name": "PortfolioBuilder",
+    "category": "Portfolio",
+    "description": "Project case studies, achievements, skills and public portfolio planning.",
+    "status": "Prototype",
+    "route": "/portfolio"
+  },
+  {
+    "id": "school-tools",
+    "name": "School Tools",
+    "category": "Education",
+    "description": "Assignments, exams, notes, rubrics, study tools and planning.",
+    "status": "Planned",
+    "route": "/school-tools"
+  },
+  {
+    "id": "creative-lab",
+    "name": "Creative Lab",
+    "category": "Creative",
+    "description": "Branding, posters, thumbnails, scripts, UI and content planning.",
+    "status": "Planned",
+    "route": "/creative-lab"
+  },
+  {
+    "id": "arcade",
+    "name": "MGLabs Arcade",
+    "category": "Games",
+    "description": "Original games, Retro Vault and open-source game discovery.",
+    "status": "Prototype",
+    "route": "/arcade"
+  },
+  {
+    "id": "retro-vault",
+    "name": "Retro Vault",
+    "category": "Games",
+    "description": "Classic browser games and open-source retro game sources.",
+    "status": "Prototype",
+    "route": "/retro-vault"
+  },
+  {
+    "id": "app-store",
+    "name": "Labs Store",
+    "category": "Platform",
+    "description": "App catalog, What's New, related apps and open buttons.",
+    "status": "Prototype",
+    "route": "/store"
+  },
+  {
+    "id": "developer",
+    "name": "Developer Mode",
+    "category": "Developer",
+    "description": "Architecture, catalogs, feature flags, credits and technical notes.",
+    "status": "Planned",
+    "route": "/developer"
+  }
+]

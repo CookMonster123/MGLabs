@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "name": "Daily Challenge",
+    "reason": "Local date + existing content; no backend needed."
+  },
+  {
+    "rank": 2,
+    "name": "Continue Where You Left Off",
+    "reason": "Uses localStorage and existing navigation."
+  },
+  {
+    "rank": 3,
+    "name": "Recently Played",
+    "reason": "Already fits current local history system."
+  },
+  {
+    "rank": 4,
+    "name": "Universal Search",
+    "reason": "Works from existing app/game catalogs."
+  },
+  {
+    "rank": 5,
+    "name": "Game of the Day",
+    "reason": "Deterministic daily selection from existing catalog."
+  },
+  {
+    "rank": 6,
+    "name": "Hidden Gems",
+    "reason": "Can rotate lower-profile catalog entries locally."
+  },
+  {
+    "rank": 7,
+    "name": "New This Week",
+    "reason": "Can use catalog metadata without fake usage data."
+  },
+  {
+    "rank": 8,
+    "name": "Random Game Roulette",
+    "reason": "Simple reliable random selection."
+  },
+  {
+    "rank": 9,
+    "name": "Favorites and Collections",
+    "reason": "LocalStorage-first and easy to persist."
+  },
+  {
+    "rank": 10,
+    "name": "Search by Player Count",
+    "reason": "Matches current multiplayer metadata."
+  },
+  {
+    "rank": 11,
+    "name": "Search by Mood",
+    "reason": "Tag-based filtering with no server dependency."
+  },
+  {
+    "rank": 12,
+    "name": "Personal Bests",
+    "reason": "Can be saved locally per game."
+  },
+  {
+    "rank": 13,
+    "name": "Weekly Quests",
+    "reason": "Can use local counters and weekly reset logic."
+  },
+  {
+    "rank": 14,
+    "name": "Profile Badges",
+    "reason": "Can derive from local achievements."
+  },
+  {
+    "rank": 15,
+    "name": "BrightPath Study Dashboard",
+    "reason": "Can begin with local subjects/goals/history."
+  },
+  {
+    "rank": 16,
+    "name": "CodeCoach Daily Challenge",
+    "reason": "Can rotate curated local prompts."
+  },
+  {
+    "rank": 17,
+    "name": "ProjectForge Milestones",
+    "reason": "Fits existing project data model."
+  },
+  {
+    "rank": 18,
+    "name": "Device Lab Engineering Missions",
+    "reason": "Works with current simulator approach."
+  },
+  {
+    "rank": 19,
+    "name": "Customizable Homepage Widgets",
+    "reason": "Can persist layout/preferences locally."
+  },
+  {
+    "rank": 20,
+    "name": "MGLabs Pulse",
+    "reason": "Can summarize real local activity only."
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "version": "22",
+  "packageVersion": "22.2.0",
+  "target": "Cloudflare Pages",
+  "jsonValid": true,
+  "jsonErrors": [],
+  "relativeImportsResolved": true,
+  "missingImports": [],
+  "routesAdded": [
+    "/",
+    "/launchpad",
+    "/apps",
+    "/games",
+    "/multiplayer",
+    "/retro-vault",
+    "/play",
+    "/brightpath",
+    "/codecoach",
+    "/projectforge",
+    "/device-lab",
+    "/community",
+    "/careerquest",
+    "/portfolio",
+    "/school-tools",
+    "/creative-lab",
+    "/store",
+    "/developer",
+    "/settings"
+  ],
+  "ai": "Cloudflare Workers AI endpoint added at /api/ai; requires binding named AI",
+  "builtGames": [
+    "Metro Rush",
+    "Voxel Frontier",
+    "Reaction Grid",
+    "Number Sprint",
+    "Memory Match"
+  ],
+  "themes": [
+    "Dark",
+    "Light",
+    "Neon",
+    "Ocean",
+    "Sunset",
+    "Forest"
+  ],
+  "buildVerification": "Dependency installation timed out in this environment, so a full Vite build could not be executed here. JSON and relative-import checks passed."
+}

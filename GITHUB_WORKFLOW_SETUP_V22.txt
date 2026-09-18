@@ -1,0 +1,16 @@
+MGLabs Version 22 — GitHub Workflow Setup
+
+The package contains the real workflow files at:
+.github/workflows/deploy-pages.yml
+.github/workflows/quality-checks.yml
+
+Because .github may appear hidden on your computer, duplicate visible copies are also included at:
+GITHUB_WORKFLOWS_TO_UPLOAD/deploy-pages.yml
+GITHUB_WORKFLOWS_TO_UPLOAD/quality-checks.yml
+
+If needed, create the workflow files directly on GitHub using:
+Add file -> Create new file
+
+Use these exact filenames:
+.github/workflows/deploy-pages.yml
+.github/workflows/quality-checks.yml

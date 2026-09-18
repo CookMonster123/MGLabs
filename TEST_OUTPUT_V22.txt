@@ -1,0 +1,61 @@
+PASS: [33m59[39m
+FAIL: [33m0[39m
+PASS | file index.html
+PASS | file package.json
+PASS | file vite.config.ts
+PASS | file tsconfig.json
+PASS | file src/main.tsx
+PASS | file src/App.tsx
+PASS | file src/styles.css
+PASS | file functions/api/ai.js
+PASS | file wrangler.toml
+PASS | file public/_redirects
+PASS | file public/_headers
+PASS | json advanced-games.json
+PASS | json app-advancements.json
+PASS | json apps.json
+PASS | json classic-game-brainstorm-v11.json
+PASS | json ideas.json
+PASS | json internet-inspirations.json
+PASS | json public-games.json
+PASS | json retro-public-games.json
+PASS | route /launchpad
+PASS | route /apps
+PASS | route /games
+PASS | route /multiplayer
+PASS | route /retro-vault
+PASS | route /play
+PASS | route /brightpath
+PASS | route /codecoach
+PASS | route /projectforge
+PASS | route /device-lab
+PASS | route /community
+PASS | route /careerquest
+PASS | route /portfolio
+PASS | route /school-tools
+PASS | route /creative-lab
+PASS | route /store
+PASS | route /developer
+PASS | route /settings
+PASS | SPA fallback
+PASS | AI binding
+PASS | dist output
+PASS | security header
+PASS | theme light
+PASS | theme neon
+PASS | theme ocean
+PASS | theme sunset
+PASS | theme forest
+PASS | game MetroRush
+PASS | game VoxelFrontier
+PASS | game ReactionGrid
+PASS | game NumberSprint
+PASS | game MemoryMatch
+PASS | AI frontend
+PASS | simulation disclosure
+PASS | CSV export
+PASS | honest Kanban empty state
+PASS | Creative actions
+PASS | AI missing binding 503
+PASS | AI empty prompt 400
+PASS | AI mock success

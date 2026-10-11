@@ -1,0 +1,12 @@
+{
+  "version": 38,
+  "title": "Workspace System",
+  "category": "System",
+  "kind": "workspace",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Workspace System record",
+    "Review Workspace System progress",
+    "Export Workspace System data"
+  ]
+}

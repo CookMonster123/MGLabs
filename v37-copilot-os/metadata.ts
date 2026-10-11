@@ -1,0 +1,1 @@
+export const metadata={id:'v37-copilot-os',version:37,title:"Copilot OS",category:"AI",kind:"assistant",description:"Context-aware assistant actions, saved prompts, action queue, and workspace-aware help."} as const;

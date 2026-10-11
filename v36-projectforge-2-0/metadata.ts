@@ -1,0 +1,1 @@
+export const metadata={id:'v36-projectforge-2-0',version:36,title:"ProjectForge 2.0",category:"Build",kind:"project",description:"Project milestones, stages, dependencies, task tracking, templates, and progress history."} as const;

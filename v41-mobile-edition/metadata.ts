@@ -1,0 +1,1 @@
+export const metadata={id:'v41-mobile-edition',version:41,title:"Mobile Edition",category:"System",kind:"mobile",description:"Mobile navigation configuration, quick actions, install checklist, and mobile layout preferences."} as const;

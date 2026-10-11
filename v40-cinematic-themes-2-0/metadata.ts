@@ -1,0 +1,1 @@
+export const metadata={id:'v40-cinematic-themes-2-0',version:40,title:"Cinematic Themes 2.0",category:"Design",kind:"theme",description:"Theme schedules, intensity controls, atmosphere presets, and cinematic visual settings."} as const;

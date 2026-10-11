@@ -1,0 +1,12 @@
+{
+  "version": 47,
+  "title": "School Mode",
+  "category": "Learning",
+  "kind": "school",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a School Mode record",
+    "Review School Mode progress",
+    "Export School Mode data"
+  ]
+}

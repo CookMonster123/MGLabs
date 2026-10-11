@@ -1,0 +1,1 @@
+export const metadata={id:'v35-brightpath-2-0',version:35,title:"BrightPath 2.0",category:"Learning",kind:"study",description:"Weak-topic tracking, flashcards, study readiness, review queues, and tutor session records."} as const;

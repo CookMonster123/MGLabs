@@ -1,0 +1,12 @@
+{
+  "version": 36,
+  "title": "ProjectForge 2.0",
+  "category": "Build",
+  "kind": "project",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a ProjectForge 2.0 record",
+    "Review ProjectForge 2.0 progress",
+    "Export ProjectForge 2.0 data"
+  ]
+}

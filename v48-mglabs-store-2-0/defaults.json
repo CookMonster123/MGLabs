@@ -1,0 +1,12 @@
+{
+  "version": 48,
+  "title": "MGLabs Store 2.0",
+  "category": "Platform",
+  "kind": "store",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a MGLabs Store 2.0 record",
+    "Review MGLabs Store 2.0 progress",
+    "Export MGLabs Store 2.0 data"
+  ]
+}

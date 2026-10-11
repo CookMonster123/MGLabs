@@ -1,0 +1,1 @@
+export const metadata={id:'v38-workspace-system',version:38,title:"Workspace System",category:"System",kind:"workspace",description:"Saved workspace layouts, tabs, presets, split-view plans, and restore points."} as const;

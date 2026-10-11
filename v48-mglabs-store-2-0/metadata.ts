@@ -1,0 +1,1 @@
+export const metadata={id:'v48-mglabs-store-2-0',version:48,title:"MGLabs Store 2.0",category:"Platform",kind:"store",description:"Optional modules, install state, categories, module details, and local enable/disable controls."} as const;

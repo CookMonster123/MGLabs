@@ -1,0 +1,12 @@
+{
+  "version": 39,
+  "title": "Custom Dashboard",
+  "category": "System",
+  "kind": "dashboard",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Custom Dashboard record",
+    "Review Custom Dashboard progress",
+    "Export Custom Dashboard data"
+  ]
+}

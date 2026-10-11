@@ -1,0 +1,1 @@
+export const metadata={id:'v39-custom-dashboard',version:39,title:"Custom Dashboard",category:"System",kind:"dashboard",description:"Widget configuration, layout presets, pinned cards, and dashboard personalization."} as const;

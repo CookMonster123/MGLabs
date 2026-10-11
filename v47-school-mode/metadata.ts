@@ -1,0 +1,1 @@
+export const metadata={id:'v47-school-mode',version:47,title:"School Mode",category:"Learning",kind:"school",description:"Academic-only workspace settings, class priority, distraction reduction, and school preferences."} as const;

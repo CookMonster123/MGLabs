@@ -1,0 +1,12 @@
+{
+  "version": 41,
+  "title": "Mobile Edition",
+  "category": "System",
+  "kind": "mobile",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Mobile Edition record",
+    "Review Mobile Edition progress",
+    "Export Mobile Edition data"
+  ]
+}

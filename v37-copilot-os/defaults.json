@@ -1,0 +1,12 @@
+{
+  "version": 37,
+  "title": "Copilot OS",
+  "category": "AI",
+  "kind": "assistant",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Copilot OS record",
+    "Review Copilot OS progress",
+    "Export Copilot OS data"
+  ]
+}

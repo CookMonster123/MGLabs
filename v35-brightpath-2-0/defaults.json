@@ -1,0 +1,12 @@
+{
+  "version": 35,
+  "title": "BrightPath 2.0",
+  "category": "Learning",
+  "kind": "study",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a BrightPath 2.0 record",
+    "Review BrightPath 2.0 progress",
+    "Export BrightPath 2.0 data"
+  ]
+}

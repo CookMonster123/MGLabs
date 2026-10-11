@@ -1,0 +1,1 @@
+export const metadata={id:'v100-mglabs-1-0',version:100,title:"MGLabs 1.0",category:"System",kind:"stable",description:"Stable major-release baseline, release health, feature inventory, and platform readiness."} as const;

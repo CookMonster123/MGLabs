@@ -1,0 +1,12 @@
+{
+  "version": 86,
+  "title": "Context Memory",
+  "category": "AI",
+  "kind": "memory",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Context Memory record",
+    "Review Context Memory progress",
+    "Export Context Memory data"
+  ]
+}

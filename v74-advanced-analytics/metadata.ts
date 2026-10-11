@@ -1,0 +1,1 @@
+export const metadata={id:'v74-advanced-analytics',version:74,title:"Advanced Analytics",category:"Admin",kind:"analytics",description:"Metric definitions, dashboards, reporting records, trend annotations, and analytics views."} as const;

@@ -1,0 +1,12 @@
+{
+  "version": 70,
+  "title": "Creator OS",
+  "category": "Creator",
+  "kind": "creatoros",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Creator OS record",
+    "Review Creator OS progress",
+    "Export Creator OS data"
+  ]
+}

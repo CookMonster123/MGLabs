@@ -1,0 +1,12 @@
+{
+  "version": 100,
+  "title": "MGLabs 1.0",
+  "category": "System",
+  "kind": "stable",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a MGLabs 1.0 record",
+    "Review MGLabs 1.0 progress",
+    "Export MGLabs 1.0 data"
+  ]
+}

@@ -1,0 +1,1 @@
+export const metadata={id:'v70-creator-os',version:70,title:"Creator OS",category:"Creator",kind:"creatoros",description:"Unified creator workflow connecting presentations, websites, assets, and publishing."} as const;

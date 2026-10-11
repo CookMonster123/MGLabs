@@ -1,0 +1,1 @@
+export const metadata={id:'v73-organization-console',version:73,title:"Organization Console",category:"Admin",kind:"organization",description:"Organization records, role policies, workspace settings, and administrative structure."} as const;

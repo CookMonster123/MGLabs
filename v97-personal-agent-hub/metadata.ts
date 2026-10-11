@@ -1,0 +1,1 @@
+export const metadata={id:'v97-personal-agent-hub',version:97,title:"Personal Agent Hub",category:"AI",kind:"agents",description:"Specialized agent definitions, roles, scopes, instructions, enabled state, and action history."} as const;

@@ -1,0 +1,1 @@
+export const metadata={id:'v94-universal-capture',version:94,title:"Universal Capture",category:"Productivity",kind:"capture",description:"Fast capture for notes, tasks, links, ideas, files, and inbox processing status."} as const;

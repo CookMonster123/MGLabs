@@ -1,0 +1,12 @@
+{
+  "version": 96,
+  "title": "Connected Learning Graph",
+  "category": "Learning",
+  "kind": "learninggraph",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Connected Learning Graph record",
+    "Review Connected Learning Graph progress",
+    "Export Connected Learning Graph data"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": 97,
+  "title": "Personal Agent Hub",
+  "category": "AI",
+  "kind": "agents",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Personal Agent Hub record",
+    "Review Personal Agent Hub progress",
+    "Export Personal Agent Hub data"
+  ]
+}

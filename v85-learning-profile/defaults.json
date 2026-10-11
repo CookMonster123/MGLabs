@@ -1,0 +1,12 @@
+{
+  "version": 85,
+  "title": "Learning Profile",
+  "category": "Personal",
+  "kind": "profile",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Learning Profile record",
+    "Review Learning Profile progress",
+    "Export Learning Profile data"
+  ]
+}

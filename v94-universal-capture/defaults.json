@@ -1,0 +1,12 @@
+{
+  "version": 94,
+  "title": "Universal Capture",
+  "category": "Productivity",
+  "kind": "capture",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Universal Capture record",
+    "Review Universal Capture progress",
+    "Export Universal Capture data"
+  ]
+}

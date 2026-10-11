@@ -1,0 +1,12 @@
+{
+  "version": 74,
+  "title": "Advanced Analytics",
+  "category": "Admin",
+  "kind": "analytics",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Advanced Analytics record",
+    "Review Advanced Analytics progress",
+    "Export Advanced Analytics data"
+  ]
+}

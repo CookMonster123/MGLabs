@@ -1,0 +1,12 @@
+{
+  "version": 73,
+  "title": "Organization Console",
+  "category": "Admin",
+  "kind": "organization",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Organization Console record",
+    "Review Organization Console progress",
+    "Export Organization Console data"
+  ]
+}

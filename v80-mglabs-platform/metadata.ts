@@ -1,0 +1,1 @@
+export const metadata={id:'v80-mglabs-platform',version:80,title:"MGLabs Platform",category:"Platform",kind:"platform",description:"Unified platform control center for APIs, plugins, connectors, organizations, and marketplace."} as const;

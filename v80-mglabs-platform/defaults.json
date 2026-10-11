@@ -1,0 +1,12 @@
+{
+  "version": 80,
+  "title": "MGLabs Platform",
+  "category": "Platform",
+  "kind": "platform",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a MGLabs Platform record",
+    "Review MGLabs Platform progress",
+    "Export MGLabs Platform data"
+  ]
+}

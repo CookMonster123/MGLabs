@@ -1,0 +1,1 @@
+export const metadata={id:'v71-developer-api',version:71,title:"Developer API",category:"Platform",kind:"api",description:"API endpoint registry, method definitions, scopes, notes, and developer documentation records."} as const;

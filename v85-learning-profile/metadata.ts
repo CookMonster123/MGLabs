@@ -1,0 +1,1 @@
+export const metadata={id:'v85-learning-profile',version:85,title:"Learning Profile",category:"Personal",kind:"profile",description:"Subject confidence, learning preferences, study patterns, strengths, and weak areas."} as const;

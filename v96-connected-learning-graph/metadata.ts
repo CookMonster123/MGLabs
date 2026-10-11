@@ -1,0 +1,1 @@
+export const metadata={id:'v96-connected-learning-graph',version:96,title:"Connected Learning Graph",category:"Learning",kind:"learninggraph",description:"Subjects, concepts, notes, weak topics, mastery links, and learning relationships."} as const;

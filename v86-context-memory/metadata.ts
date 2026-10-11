@@ -1,0 +1,1 @@
+export const metadata={id:'v86-context-memory',version:86,title:"Context Memory",category:"AI",kind:"memory",description:"Project-specific context summaries, memory entries, source labels, and relevance notes."} as const;

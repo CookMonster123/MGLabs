@@ -1,0 +1,12 @@
+{
+  "version": 71,
+  "title": "Developer API",
+  "category": "Platform",
+  "kind": "api",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Developer API record",
+    "Review Developer API progress",
+    "Export Developer API data"
+  ]
+}

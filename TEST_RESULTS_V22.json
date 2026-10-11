@@ -1,8 +1,0 @@
-{
-  "automated_requirements_status": "PASS",
-  "passed": 59,
-  "failed": 0,
-  "npm_install_attempt": "TIMED_OUT_IN_TEST_ENVIRONMENT",
-  "typecheck_executed": false,
-  "vite_build_executed": false
-}

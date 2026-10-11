@@ -1,8 +1,0 @@
-{
-  "owner": "CookMonster123",
-  "repository": "MGLabs",
-  "branch": "main",
-  "expectedPagesUrl": "https://CookMonster123.github.io/MGLabs/",
-  "viteBase": "/MGLabs/",
-  "deploymentMethod": "GitHub Actions -> GitHub Pages"
-}

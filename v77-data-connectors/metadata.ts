@@ -1,0 +1,1 @@
+export const metadata={id:'v77-data-connectors',version:77,title:"Data Connectors",category:"Platform",kind:"connector",description:"Connector registry, source definitions, permissions, sync status, and connection health."} as const;

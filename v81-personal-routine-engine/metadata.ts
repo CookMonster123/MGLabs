@@ -1,0 +1,1 @@
+export const metadata={id:'v81-personal-routine-engine',version:81,title:"Personal Routine Engine",category:"Personal",kind:"routine",description:"Recurring routines, habits, cadence, completion history, and routine status."} as const;

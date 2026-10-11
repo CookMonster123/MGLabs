@@ -1,0 +1,12 @@
+{
+  "version": 67,
+  "title": "Presentation Studio",
+  "category": "Creator",
+  "kind": "presentation",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Presentation Studio record",
+    "Review Presentation Studio progress",
+    "Export Presentation Studio data"
+  ]
+}

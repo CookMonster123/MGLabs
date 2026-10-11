@@ -1,0 +1,1 @@
+export const metadata={id:'v87-personal-search',version:87,title:"Personal Search",category:"Personal",kind:"search",description:"Search across local MGLabs records with scopes, favorites, and query history."} as const;

@@ -1,0 +1,12 @@
+{
+  "version": 81,
+  "title": "Personal Routine Engine",
+  "category": "Personal",
+  "kind": "routine",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Personal Routine Engine record",
+    "Review Personal Routine Engine progress",
+    "Export Personal Routine Engine data"
+  ]
+}

@@ -1,0 +1,1 @@
+export const metadata={id:'v90-personal-os',version:90,title:"Personal OS",category:"Personal",kind:"personalos",description:"Unified personal operating system across schedule, goals, learning, projects, and routines."} as const;

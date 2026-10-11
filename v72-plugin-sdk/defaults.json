@@ -1,0 +1,12 @@
+{
+  "version": 72,
+  "title": "Plugin SDK",
+  "category": "Platform",
+  "kind": "sdk",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Plugin SDK record",
+    "Review Plugin SDK progress",
+    "Export Plugin SDK data"
+  ]
+}

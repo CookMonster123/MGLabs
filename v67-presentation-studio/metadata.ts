@@ -1,0 +1,1 @@
+export const metadata={id:'v67-presentation-studio',version:67,title:"Presentation Studio",category:"Creator",kind:"presentation",description:"Slide outlines, speaker notes, presentation sections, talking points, and progress tracking."} as const;

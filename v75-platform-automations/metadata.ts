@@ -1,0 +1,1 @@
+export const metadata={id:'v75-platform-automations',version:75,title:"Platform Automations",category:"Platform",kind:"automation",description:"Cross-tool automation workflows, triggers, actions, run state, and execution notes."} as const;

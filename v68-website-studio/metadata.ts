@@ -1,0 +1,1 @@
+export const metadata={id:'v68-website-studio',version:68,title:"Website Studio",category:"Creator",kind:"website",description:"Website pages, sections, content blocks, site map records, and build checklist."} as const;

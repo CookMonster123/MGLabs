@@ -1,0 +1,12 @@
+{
+  "version": 79,
+  "title": "Platform Marketplace",
+  "category": "Platform",
+  "kind": "marketplace",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Platform Marketplace record",
+    "Review Platform Marketplace progress",
+    "Export Platform Marketplace data"
+  ]
+}

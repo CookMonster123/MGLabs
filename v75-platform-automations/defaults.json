@@ -1,0 +1,12 @@
+{
+  "version": 75,
+  "title": "Platform Automations",
+  "category": "Platform",
+  "kind": "automation",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Platform Automations record",
+    "Review Platform Automations progress",
+    "Export Platform Automations data"
+  ]
+}

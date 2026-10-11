@@ -1,0 +1,1 @@
+export const metadata={id:'v72-plugin-sdk',version:72,title:"Plugin SDK",category:"Platform",kind:"sdk",description:"Plugin manifest builder, capability definitions, permissions, and SDK project records."} as const;

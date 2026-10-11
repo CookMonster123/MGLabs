@@ -1,0 +1,12 @@
+{
+  "version": 87,
+  "title": "Personal Search",
+  "category": "Personal",
+  "kind": "search",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Personal Search record",
+    "Review Personal Search progress",
+    "Export Personal Search data"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": 90,
+  "title": "Personal OS",
+  "category": "Personal",
+  "kind": "personalos",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Personal OS record",
+    "Review Personal OS progress",
+    "Export Personal OS data"
+  ]
+}

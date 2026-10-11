@@ -1,0 +1,1 @@
+export const metadata={id:'v79-platform-marketplace',version:79,title:"Platform Marketplace",category:"Platform",kind:"marketplace",description:"Marketplace listings, installation status, categories, publisher records, and module metadata."} as const;

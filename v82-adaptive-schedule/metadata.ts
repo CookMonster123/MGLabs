@@ -1,0 +1,1 @@
+export const metadata={id:'v82-adaptive-schedule',version:82,title:"Adaptive Schedule",category:"Personal",kind:"schedule",description:"Schedule blocks, priorities, time windows, workload placement, and adaptive planning records."} as const;

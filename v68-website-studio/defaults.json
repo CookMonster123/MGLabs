@@ -1,0 +1,12 @@
+{
+  "version": 68,
+  "title": "Website Studio",
+  "category": "Creator",
+  "kind": "website",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Website Studio record",
+    "Review Website Studio progress",
+    "Export Website Studio data"
+  ]
+}

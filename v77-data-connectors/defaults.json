@@ -1,0 +1,12 @@
+{
+  "version": 77,
+  "title": "Data Connectors",
+  "category": "Platform",
+  "kind": "connector",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Data Connectors record",
+    "Review Data Connectors progress",
+    "Export Data Connectors data"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": 82,
+  "title": "Adaptive Schedule",
+  "category": "Personal",
+  "kind": "schedule",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Adaptive Schedule record",
+    "Review Adaptive Schedule progress",
+    "Export Adaptive Schedule data"
+  ]
+}

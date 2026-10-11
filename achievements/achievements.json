@@ -1,0 +1,30 @@
+[
+  {
+    "id": "quiz-starter",
+    "name": "Quiz Starter",
+    "description": "Complete your first BrightPath quiz.",
+    "target": 1,
+    "key": "quizzesCompleted"
+  },
+  {
+    "id": "coder",
+    "name": "Code Starter",
+    "description": "Complete your first coding challenge.",
+    "target": 1,
+    "key": "codingChallenges"
+  },
+  {
+    "id": "engineer",
+    "name": "Engineer",
+    "description": "Complete your first Device Lab experiment.",
+    "target": 1,
+    "key": "deviceExperiments"
+  },
+  {
+    "id": "builder",
+    "name": "Project Builder",
+    "description": "Create your first ProjectForge project.",
+    "target": 1,
+    "key": "projectsCreated"
+  }
+]

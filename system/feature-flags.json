@@ -1,0 +1,14 @@
+{
+  "globalSearch": true,
+  "favorites": true,
+  "recentActivity": true,
+  "achievements": true,
+  "retroVault": true,
+  "brightPathAdvancedModes": true,
+  "projectForgeKanban": true,
+  "deviceLabReplay": true,
+  "communityPreview": true,
+  "careerQuestPreview": true,
+  "developerMode": true,
+  "customDashboard": false
+}

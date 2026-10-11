@@ -1,0 +1,12 @@
+{
+  "version": 57,
+  "title": "Calendar Integrations",
+  "category": "Platform",
+  "kind": "integration",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Calendar Integrations record",
+    "Review Calendar Integrations progress",
+    "Export Calendar Integrations data"
+  ]
+}

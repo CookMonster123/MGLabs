@@ -1,0 +1,12 @@
+{
+  "version": 63,
+  "title": "Team Projects",
+  "category": "Collaboration",
+  "kind": "team",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Team Projects record",
+    "Review Team Projects progress",
+    "Export Team Projects data"
+  ]
+}

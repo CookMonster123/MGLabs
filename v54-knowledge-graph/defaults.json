@@ -1,0 +1,12 @@
+{
+  "version": 54,
+  "title": "Knowledge Graph",
+  "category": "Knowledge",
+  "kind": "graph",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Knowledge Graph record",
+    "Review Knowledge Graph progress",
+    "Export Knowledge Graph data"
+  ]
+}

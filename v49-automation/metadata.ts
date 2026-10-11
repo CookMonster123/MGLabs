@@ -1,0 +1,1 @@
+export const metadata={id:'v49-automation',version:49,title:"Automation",category:"Productivity",kind:"automation",description:"Recurring workflow rules, triggers, actions, schedules, and automation status."} as const;

@@ -1,0 +1,1 @@
+export const metadata={id:'v63-team-projects',version:63,title:"Team Projects",category:"Collaboration",kind:"team",description:"Team project roles, assignments, owners, responsibilities, and coordinated milestones."} as const;

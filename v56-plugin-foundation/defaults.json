@@ -1,0 +1,12 @@
+{
+  "version": 56,
+  "title": "Plugin Foundation",
+  "category": "Platform",
+  "kind": "plugin",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Plugin Foundation record",
+    "Review Plugin Foundation progress",
+    "Export Plugin Foundation data"
+  ]
+}

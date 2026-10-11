@@ -1,0 +1,1 @@
+export const metadata={id:'v65-collaboration-suite',version:65,title:"Collaboration Suite",category:"Collaboration",kind:"suite",description:"Unified collaboration dashboard for spaces, teams, classrooms, activity, and permissions."} as const;

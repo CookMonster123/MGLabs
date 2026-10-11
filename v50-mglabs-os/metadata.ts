@@ -1,0 +1,1 @@
+export const metadata={id:'v50-mglabs-os',version:50,title:"MGLabs OS",category:"System",kind:"os",description:"Unified operating-system dashboard connecting planning, learning, projects, files, AI, and growth."} as const;

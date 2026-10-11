@@ -1,0 +1,12 @@
+{
+  "version": 49,
+  "title": "Automation",
+  "category": "Productivity",
+  "kind": "automation",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Automation record",
+    "Review Automation progress",
+    "Export Automation data"
+  ]
+}

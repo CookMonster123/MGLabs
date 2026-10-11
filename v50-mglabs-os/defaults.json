@@ -1,0 +1,12 @@
+{
+  "version": 50,
+  "title": "MGLabs OS",
+  "category": "System",
+  "kind": "os",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a MGLabs OS record",
+    "Review MGLabs OS progress",
+    "Export MGLabs OS data"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": 65,
+  "title": "Collaboration Suite",
+  "category": "Collaboration",
+  "kind": "suite",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Collaboration Suite record",
+    "Review Collaboration Suite progress",
+    "Export Collaboration Suite data"
+  ]
+}

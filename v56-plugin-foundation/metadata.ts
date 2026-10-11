@@ -1,0 +1,1 @@
+export const metadata={id:'v56-plugin-foundation',version:56,title:"Plugin Foundation",category:"Platform",kind:"plugin",description:"Plugin manifests, installed plugin state, capabilities, permissions, and registry records."} as const;

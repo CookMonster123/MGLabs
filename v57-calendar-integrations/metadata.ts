@@ -1,0 +1,1 @@
+export const metadata={id:'v57-calendar-integrations',version:57,title:"Calendar Integrations",category:"Platform",kind:"integration",description:"External calendar connection definitions, sync preferences, mapping rules, and provider status."} as const;

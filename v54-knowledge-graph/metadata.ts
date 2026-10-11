@@ -1,0 +1,1 @@
+export const metadata={id:'v54-knowledge-graph',version:54,title:"Knowledge Graph",category:"Knowledge",kind:"graph",description:"Linked concepts, note relationships, subjects, project references, and graph connections."} as const;

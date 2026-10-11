@@ -1,0 +1,1 @@
+export const metadata={id:'v66-creator-studio',version:66,title:"Creator Studio",category:"Creator",kind:"creator",description:"Creative project pipeline, asset records, stages, drafts, and review workflow."} as const;

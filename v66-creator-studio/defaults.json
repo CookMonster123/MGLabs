@@ -1,0 +1,12 @@
+{
+  "version": 66,
+  "title": "Creator Studio",
+  "category": "Creator",
+  "kind": "creator",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Creator Studio record",
+    "Review Creator Studio progress",
+    "Export Creator Studio data"
+  ]
+}

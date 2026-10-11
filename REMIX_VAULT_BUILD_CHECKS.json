@@ -1,0 +1,8 @@
+{
+  "version": "27.0.0",
+  "remix_component": true,
+  "remix_games": 20,
+  "engine": true,
+  "research_notes": true,
+  "summary": true
+}

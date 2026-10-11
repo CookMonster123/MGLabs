@@ -1,0 +1,12 @@
+{
+  "version": "22",
+  "name": "Top 30 Update",
+  "featureCount": 30,
+  "statusCounts": {
+    "Prototype": 21,
+    "Implemented Demo": 8,
+    "Planned": 1
+  },
+  "customDomain": "mglabs.xyz",
+  "note": "Backend-dependent features remain Planned; no fake backend claims."
+}

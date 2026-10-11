@@ -1,0 +1,111 @@
+MGLabs Version 22 mega-upgrade verification
+PASS: 108
+FAIL: 0
+PASS | required file: index.html
+PASS | required file: package.json
+PASS | required file: vite.config.ts
+PASS | required file: tsconfig.json
+PASS | required file: src/main.tsx
+PASS | required file: src/App.tsx
+PASS | required file: src/styles.css
+PASS | required file: src/components/MetroRush.tsx
+PASS | required file: src/components/VoxelFrontier.tsx
+PASS | required file: src/components/QuickGames.tsx
+PASS | required file: src/components/ExtraGames.tsx
+PASS | required file: src/components/GameBoundary.tsx
+PASS | required file: worker/index.js
+PASS | required file: functions/api/ai.js
+PASS | required file: wrangler.toml
+PASS | required file: wrangler.pages.toml
+PASS | required file: public/_redirects
+PASS | required file: public/_headers
+PASS | required file: public/data/mega-games.json
+PASS | required file: public/data/multiplayer-games.json
+PASS | all JSON parses
+PASS | route: /launchpad
+PASS | route: /apps
+PASS | route: /games
+PASS | route: /multiplayer
+PASS | route: /retro-vault
+PASS | route: /play
+PASS | route: /brightpath
+PASS | route: /codecoach
+PASS | route: /projectforge
+PASS | route: /device-lab
+PASS | route: /community
+PASS | route: /careerquest
+PASS | route: /portfolio
+PASS | route: /school-tools
+PASS | route: /creative-lab
+PASS | route: /store
+PASS | route: /developer
+PASS | route: /settings
+PASS | theme CSS: light
+PASS | theme CSS: neon
+PASS | theme CSS: ocean
+PASS | theme CSS: sunset
+PASS | theme CSS: forest
+PASS | theme CSS: cyberpunk
+PASS | theme CSS: galaxy
+PASS | theme CSS: midnight
+PASS | theme CSS: aurora
+PASS | theme CSS: arctic
+PASS | theme CSS: volcano
+PASS | theme CSS: retro-arcade
+PASS | theme CSS: matrix
+PASS | theme CSS: purple-storm
+PASS | theme CSS: emerald
+PASS | theme CSS: synthwave
+PASS | theme CSS: blackout
+PASS | default dark theme variables
+PASS | built game registered: Metro Rush
+PASS | built game registered: Voxel Frontier
+PASS | built game registered: Reaction Grid
+PASS | built game registered: Number Sprint
+PASS | built game registered: Memory Match
+PASS | built game registered: Tap Rush
+PASS | built game registered: Pattern Recall
+PASS | built game registered: Color Rush
+PASS | game error boundary wired
+PASS | random built game control
+PASS | game history section
+PASS | mega catalog lazy-fetched
+PASS | multiplayer catalog lazy-fetched
+PASS | mega catalog removed from initial JS bundle
+PASS | multiplayer catalog removed from initial JS bundle
+PASS | frontend AI endpoint wired
+PASS | AI error states visible
+PASS | Device Lab simulation disclosure
+PASS | Device Lab CSV export
+PASS | ProjectForge honest empty states
+PASS | ProjectForge templates
+PASS | expanded School Tools
+PASS | expanded Creative Lab actions
+PASS | CareerQuest compare flow
+PASS | portfolio print/export action
+PASS | command palette
+PASS | theme gallery and randomizer
+PASS | seasonal theme option
+PASS | Launchpad pinning
+PASS | game of the day
+PASS | app of the day
+PASS | Workers entry point configured
+PASS | Workers assets directory
+PASS | Workers assets binding
+PASS | Workers SPA fallback
+PASS | API routes run worker first
+PASS | Workers AI binding configured
+PASS | observability configured
+PASS | Pages SPA fallback retained
+PASS | security header nosniff
+PASS | requirements script
+PASS | worker test script
+PASS | worker deploy script
+PASS | worker version script
+PASS | typecheck script
+PASS | vite build script
+PASS | relative imports resolve
+PASS | Worker AI missing binding -> 503
+PASS | Worker AI empty prompt -> 400
+PASS | Worker AI success path
+PASS | Worker non-API delegates to static assets

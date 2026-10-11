@@ -1,0 +1,13 @@
+{
+  "version": "22",
+  "upgrade": "Full Experience Upgrade",
+  "requirements_checks": 108,
+  "requirements_failures": 0,
+  "typescript_tsx_syntax_stub_test": "PASS",
+  "worker_runtime_mock_tests": "PASS",
+  "large_catalogs_lazy_loaded": true,
+  "built_games": 8,
+  "themes": 18,
+  "production_vite_build": "NOT_EXECUTED_LOCALLY_DEPENDENCY_INSTALL_TIMEOUT",
+  "cloudflare_final_gate": "npm run build then npx wrangler deploy"
+}

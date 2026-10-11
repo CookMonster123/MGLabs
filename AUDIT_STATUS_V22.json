@@ -1,0 +1,10 @@
+{
+  "version": "22",
+  "jsonFilesValid": true,
+  "jsonErrors": [],
+  "relativeImportsResolved": true,
+  "missingImports": [],
+  "githubPagesDomain": "mglabs.xyz",
+  "viteBaseRoot": true,
+  "note": "Full npm install/build could not be completed in this environment because dependency installation timed out; GitHub Actions is configured to run typecheck and build."
+}

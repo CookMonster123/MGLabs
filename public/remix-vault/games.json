@@ -1,0 +1,182 @@
+[
+  {
+    "slug": "metro-dash",
+    "name": "Metro Dash",
+    "inspiredBy": "Subway Surfers",
+    "genre": "Lane Runner",
+    "description": "Dodge barriers, switch lanes, jump and collect tokens.",
+    "playUrl": "/remix-vault/metro-dash.html",
+    "status": "Built"
+  },
+  {
+    "slug": "sky-hop",
+    "name": "Sky Hop",
+    "inspiredBy": "Flappy Bird",
+    "genre": "Tap Flyer",
+    "description": "Tap to stay airborne and thread moving gates.",
+    "playUrl": "/remix-vault/sky-hop.html",
+    "status": "Built"
+  },
+  {
+    "slug": "merge-grid",
+    "name": "Merge Grid",
+    "inspiredBy": "2048",
+    "genre": "Number Puzzle",
+    "description": "Slide matching tiles together and build the biggest number.",
+    "playUrl": "/remix-vault/merge-grid.html",
+    "status": "Built"
+  },
+  {
+    "slug": "neon-snake",
+    "name": "Neon Snake",
+    "inspiredBy": "Snake",
+    "genre": "Arcade",
+    "description": "Grow your trail without hitting the wall or yourself.",
+    "playUrl": "/remix-vault/neon-snake.html",
+    "status": "Built"
+  },
+  {
+    "slug": "block-drop",
+    "name": "Block Drop",
+    "inspiredBy": "Tetris",
+    "genre": "Puzzle",
+    "description": "Rotate and place falling blocks to clear horizontal lines.",
+    "playUrl": "/remix-vault/block-drop.html",
+    "status": "Built"
+  },
+  {
+    "slug": "maze-munch",
+    "name": "Maze Munch",
+    "inspiredBy": "Pac-Man",
+    "genre": "Maze",
+    "description": "Collect every dot while avoiding the roaming hunter.",
+    "playUrl": "/remix-vault/maze-munch.html",
+    "status": "Built"
+  },
+  {
+    "slug": "mine-grid",
+    "name": "Mine Grid",
+    "inspiredBy": "Minesweeper",
+    "genre": "Logic",
+    "description": "Reveal safe cells and flag hidden mines.",
+    "playUrl": "/remix-vault/mine-grid.html",
+    "status": "Built"
+  },
+  {
+    "slug": "word-five",
+    "name": "Word Five",
+    "inspiredBy": "Wordle",
+    "genre": "Word",
+    "description": "Guess the five-letter word in six tries.",
+    "playUrl": "/remix-vault/word-five.html",
+    "status": "Built"
+  },
+  {
+    "slug": "brick-burst",
+    "name": "Brick Burst",
+    "inspiredBy": "Breakout",
+    "genre": "Arcade",
+    "description": "Bounce the ball, move the paddle and clear the wall.",
+    "playUrl": "/remix-vault/brick-burst.html",
+    "status": "Built"
+  },
+  {
+    "slug": "galaxy-guard",
+    "name": "Galaxy Guard",
+    "inspiredBy": "Space Invaders",
+    "genre": "Shooter",
+    "description": "Move, shoot, and clear descending alien formations.",
+    "playUrl": "/remix-vault/galaxy-guard.html",
+    "status": "Built"
+  },
+  {
+    "slug": "desert-sprint",
+    "name": "Desert Sprint",
+    "inspiredBy": "Chrome Dino",
+    "genre": "Runner",
+    "description": "Jump obstacles as the world speeds up.",
+    "playUrl": "/remix-vault/desert-sprint.html",
+    "status": "Built"
+  },
+  {
+    "slug": "street-hop",
+    "name": "Street Hop",
+    "inspiredBy": "Crossy Road",
+    "genre": "Crossing",
+    "description": "Hop through traffic and reach the next safe strip.",
+    "playUrl": "/remix-vault/street-hop.html",
+    "status": "Built"
+  },
+  {
+    "slug": "pulse-jump",
+    "name": "Pulse Jump",
+    "inspiredBy": "Geometry Dash",
+    "genre": "Rhythm Platformer",
+    "description": "Auto-run through spikes and time every jump.",
+    "playUrl": "/remix-vault/pulse-jump.html",
+    "status": "Built"
+  },
+  {
+    "slug": "cloud-climb",
+    "name": "Cloud Climb",
+    "inspiredBy": "Doodle Jump",
+    "genre": "Platformer",
+    "description": "Bounce upward from platform to platform.",
+    "playUrl": "/remix-vault/cloud-climb.html",
+    "status": "Built"
+  },
+  {
+    "slug": "slice-storm",
+    "name": "Slice Storm",
+    "inspiredBy": "Fruit Ninja",
+    "genre": "Reaction",
+    "description": "Slice targets before they fall. Avoid the bombs.",
+    "playUrl": "/remix-vault/slice-storm.html",
+    "status": "Built"
+  },
+  {
+    "slug": "sling-siege",
+    "name": "Sling Siege",
+    "inspiredBy": "Angry Birds",
+    "genre": "Physics Puzzle",
+    "description": "Launch a ball toward block towers and score direct hits.",
+    "playUrl": "/remix-vault/sling-siege.html",
+    "status": "Built"
+  },
+  {
+    "slug": "tower-stack",
+    "name": "Tower Stack",
+    "inspiredBy": "Stack",
+    "genre": "Timing",
+    "description": "Drop moving blocks and build the tallest clean tower.",
+    "playUrl": "/remix-vault/tower-stack.html",
+    "status": "Built"
+  },
+  {
+    "slug": "spiral-drop",
+    "name": "Spiral Drop",
+    "inspiredBy": "Helix Jump",
+    "genre": "Dropper",
+    "description": "Guide the ball through rotating gaps while avoiding danger zones.",
+    "playUrl": "/remix-vault/spiral-drop.html",
+    "status": "Built"
+  },
+  {
+    "slug": "chroma-hop",
+    "name": "Chroma Hop",
+    "inspiredBy": "Color Switch",
+    "genre": "Color Timing",
+    "description": "Pass through matching color gates and keep your streak alive.",
+    "playUrl": "/remix-vault/chroma-hop.html",
+    "status": "Built"
+  },
+  {
+    "slug": "temple-dash",
+    "name": "Temple Dash",
+    "inspiredBy": "Temple Run",
+    "genre": "Runner",
+    "description": "Turn, jump, and slide through an endless ruin path.",
+    "playUrl": "/remix-vault/temple-dash.html",
+    "status": "Built"
+  }
+]

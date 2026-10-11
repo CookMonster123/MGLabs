@@ -1,0 +1,16 @@
+{
+  "name": "js-game-text-",
+  "version": "1.0.0",
+  "description": "",
+  "type":"module",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^29.1.0"
+  }
+}

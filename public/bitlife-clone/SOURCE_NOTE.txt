@@ -1,0 +1,3 @@
+Source: https://github.com/AaronGulman/BitLife-Clone-in-JavaScript
+License: MIT
+This bundle contains the MIT-licensed source files retrieved from GitHub. package-lock.json was omitted because it is generated dependency metadata.

@@ -1,0 +1,12 @@
+{
+  "version": 53,
+  "title": "Natural Language Search",
+  "category": "AI",
+  "kind": "search",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Natural Language Search record",
+    "Review Natural Language Search progress",
+    "Export Natural Language Search data"
+  ]
+}

@@ -1,0 +1,1 @@
+export const metadata={id:'v55-personal-intelligence',version:55,title:"Personal Intelligence",category:"AI",kind:"insight",description:"Local behavior patterns, personalized insights, activity summaries, and recommendation records."} as const;

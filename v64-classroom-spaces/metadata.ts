@@ -1,0 +1,1 @@
+export const metadata={id:'v64-classroom-spaces',version:64,title:"Classroom Spaces",category:"Collaboration",kind:"classroom",description:"Class spaces, announcements, resources, assignment records, and classroom membership."} as const;

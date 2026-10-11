@@ -1,0 +1,12 @@
+{
+  "version": 43,
+  "title": "Opportunity Center",
+  "category": "Growth",
+  "kind": "opportunity",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Opportunity Center record",
+    "Review Opportunity Center progress",
+    "Export Opportunity Center data"
+  ]
+}

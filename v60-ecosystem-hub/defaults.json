@@ -1,0 +1,12 @@
+{
+  "version": 60,
+  "title": "Ecosystem Hub",
+  "category": "Platform",
+  "kind": "ecosystem",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Ecosystem Hub record",
+    "Review Ecosystem Hub progress",
+    "Export Ecosystem Hub data"
+  ]
+}

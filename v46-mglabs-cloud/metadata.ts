@@ -1,0 +1,1 @@
+export const metadata={id:'v46-mglabs-cloud',version:46,title:"MGLabs Cloud",category:"System",kind:"cloud",description:"Portable backups, sync queue modeling, device records, export/import tools, and storage status."} as const;

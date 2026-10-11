@@ -1,0 +1,1 @@
+export const metadata={id:'v43-opportunity-center',version:43,title:"Opportunity Center",category:"Growth",kind:"opportunity",description:"Scholarships, programs, internships, hackathons, camps, and application status tracking."} as const;

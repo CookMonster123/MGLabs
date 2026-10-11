@@ -1,0 +1,1 @@
+export const metadata={id:'v58-cloud-drive-integrations',version:58,title:"Cloud Drive Integrations",category:"Platform",kind:"integration",description:"External file-provider connection definitions, folders, sync preferences, and provider status."} as const;

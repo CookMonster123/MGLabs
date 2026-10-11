@@ -1,0 +1,12 @@
+{
+  "version": 58,
+  "title": "Cloud Drive Integrations",
+  "category": "Platform",
+  "kind": "integration",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Cloud Drive Integrations record",
+    "Review Cloud Drive Integrations progress",
+    "Export Cloud Drive Integrations data"
+  ]
+}

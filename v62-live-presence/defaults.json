@@ -1,0 +1,12 @@
+{
+  "version": 62,
+  "title": "Live Presence",
+  "category": "Collaboration",
+  "kind": "presence",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Live Presence record",
+    "Review Live Presence progress",
+    "Export Live Presence data"
+  ]
+}

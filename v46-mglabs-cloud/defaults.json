@@ -1,0 +1,12 @@
+{
+  "version": 46,
+  "title": "MGLabs Cloud",
+  "category": "System",
+  "kind": "cloud",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a MGLabs Cloud record",
+    "Review MGLabs Cloud progress",
+    "Export MGLabs Cloud data"
+  ]
+}

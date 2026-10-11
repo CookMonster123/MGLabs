@@ -1,0 +1,12 @@
+{
+  "version": 45,
+  "title": "Collaboration",
+  "category": "Collaboration",
+  "kind": "collab",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Collaboration record",
+    "Review Collaboration progress",
+    "Export Collaboration data"
+  ]
+}

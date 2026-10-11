@@ -1,0 +1,1 @@
+export const metadata={id:'v60-ecosystem-hub',version:60,title:"Ecosystem Hub",category:"Platform",kind:"ecosystem",description:"Unified integrations, plugins, modules, provider status, and ecosystem health records."} as const;

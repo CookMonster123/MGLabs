@@ -1,0 +1,1 @@
+export const metadata={id:'v44-analytics-goals',version:44,title:"Analytics & Goals",category:"Growth",kind:"analytics",description:"Goals, weekly review, real local activity totals, progress summaries, and trend records."} as const;

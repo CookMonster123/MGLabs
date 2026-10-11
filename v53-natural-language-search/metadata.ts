@@ -1,0 +1,1 @@
+export const metadata={id:'v53-natural-language-search',version:53,title:"Natural Language Search",category:"AI",kind:"search",description:"Plain-language search history, query interpretation records, saved searches, and scope controls."} as const;

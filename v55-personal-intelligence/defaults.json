@@ -1,0 +1,12 @@
+{
+  "version": 55,
+  "title": "Personal Intelligence",
+  "category": "AI",
+  "kind": "insight",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Personal Intelligence record",
+    "Review Personal Intelligence progress",
+    "Export Personal Intelligence data"
+  ]
+}

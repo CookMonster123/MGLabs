@@ -1,0 +1,12 @@
+{
+  "version": 51,
+  "title": "Adaptive Planner",
+  "category": "Planning",
+  "kind": "adaptive",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Adaptive Planner record",
+    "Review Adaptive Planner progress",
+    "Export Adaptive Planner data"
+  ]
+}

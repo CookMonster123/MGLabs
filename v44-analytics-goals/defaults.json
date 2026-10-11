@@ -1,0 +1,12 @@
+{
+  "version": 44,
+  "title": "Analytics & Goals",
+  "category": "Growth",
+  "kind": "analytics",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Analytics & Goals record",
+    "Review Analytics & Goals progress",
+    "Export Analytics & Goals data"
+  ]
+}

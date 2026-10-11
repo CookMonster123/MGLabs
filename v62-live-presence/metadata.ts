@@ -1,0 +1,1 @@
+export const metadata={id:'v62-live-presence',version:62,title:"Live Presence",category:"Collaboration",kind:"presence",description:"Presence state, status messages, active workspace records, and collaborator availability."} as const;

@@ -1,0 +1,12 @@
+{
+  "version": 64,
+  "title": "Classroom Spaces",
+  "category": "Collaboration",
+  "kind": "classroom",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Classroom Spaces record",
+    "Review Classroom Spaces progress",
+    "Export Classroom Spaces data"
+  ]
+}

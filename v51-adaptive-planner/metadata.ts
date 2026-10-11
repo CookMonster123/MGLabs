@@ -1,0 +1,1 @@
+export const metadata={id:'v51-adaptive-planner',version:51,title:"Adaptive Planner",category:"Planning",kind:"adaptive",description:"Priority scoring, urgency rules, workload-aware recommendations, and adaptive task ordering."} as const;

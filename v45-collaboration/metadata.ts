@@ -1,0 +1,1 @@
+export const metadata={id:'v45-collaboration',version:45,title:"Collaboration",category:"Collaboration",kind:"collab",description:"Shared spaces, comments, member roles, lightweight collaboration records, and activity."} as const;

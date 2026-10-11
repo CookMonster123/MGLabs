@@ -1,0 +1,12 @@
+{
+  "version": 99,
+  "title": "Release Candidate",
+  "category": "System",
+  "kind": "rc",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Release Candidate record",
+    "Review Release Candidate progress",
+    "Export Release Candidate data"
+  ]
+}

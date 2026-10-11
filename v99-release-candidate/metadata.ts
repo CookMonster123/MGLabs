@@ -1,0 +1,1 @@
+export const metadata={id:'v99-release-candidate',version:99,title:"Release Candidate",category:"System",kind:"rc",description:"System-wide readiness checklist, blockers, QA records, deployment checks, and release sign-off."} as const;

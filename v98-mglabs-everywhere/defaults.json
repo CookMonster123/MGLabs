@@ -1,0 +1,12 @@
+{
+  "version": 98,
+  "title": "MGLabs Everywhere",
+  "category": "System",
+  "kind": "everywhere",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a MGLabs Everywhere record",
+    "Review MGLabs Everywhere progress",
+    "Export MGLabs Everywhere data"
+  ]
+}

@@ -1,0 +1,1 @@
+export const metadata={id:'v93-smart-workspace-orchestration',version:93,title:"Smart Workspace Orchestration",category:"AI",kind:"orchestrate",description:"Workspace launch recipes, grouped tools, automation steps, and orchestration presets."} as const;

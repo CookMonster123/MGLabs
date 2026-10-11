@@ -1,0 +1,1 @@
+export const metadata={id:'v92-unified-knowledge',version:92,title:"Unified Knowledge",category:"Knowledge",kind:"knowledge",description:"Merged knowledge references, source relationships, summaries, and connected information records."} as const;

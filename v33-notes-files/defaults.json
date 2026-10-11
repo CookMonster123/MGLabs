@@ -1,0 +1,12 @@
+{
+  "version": 33,
+  "title": "Notes & Files",
+  "category": "Knowledge",
+  "kind": "notes",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Notes & Files record",
+    "Review Notes & Files progress",
+    "Export Notes & Files data"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": 91,
+  "title": "Predictive Planning",
+  "category": "AI",
+  "kind": "predictive",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Predictive Planning record",
+    "Review Predictive Planning progress",
+    "Export Predictive Planning data"
+  ]
+}

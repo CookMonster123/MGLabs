@@ -1,0 +1,1 @@
+export const metadata={id:'v32-planner-calendar',version:32,title:"Planner & Calendar",category:"Planning",kind:"calendar",description:"Dated assignments, tests, events, reminders, week planning, and deadline tracking."} as const;

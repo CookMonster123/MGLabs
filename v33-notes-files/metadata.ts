@@ -1,0 +1,1 @@
+export const metadata={id:'v33-notes-files',version:33,title:"Notes & Files",category:"Knowledge",kind:"notes",description:"Searchable notes, folders, tags, file vault records, favorites, and autosave."} as const;

@@ -1,0 +1,1 @@
+export const metadata={id:'v91-predictive-planning',version:91,title:"Predictive Planning",category:"AI",kind:"predictive",description:"Projected workload, deadline pressure, forecast notes, and future planning recommendations."} as const;

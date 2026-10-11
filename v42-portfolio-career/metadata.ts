@@ -1,0 +1,1 @@
+export const metadata={id:'v42-portfolio-career',version:42,title:"Portfolio & Career",category:"Growth",kind:"career",description:"Portfolio entries, skills, activities, awards, experiences, and resume-ready records."} as const;

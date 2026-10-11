@@ -1,0 +1,12 @@
+{
+  "version": 93,
+  "title": "Smart Workspace Orchestration",
+  "category": "AI",
+  "kind": "orchestrate",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Smart Workspace Orchestration record",
+    "Review Smart Workspace Orchestration progress",
+    "Export Smart Workspace Orchestration data"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": 32,
+  "title": "Planner & Calendar",
+  "category": "Planning",
+  "kind": "calendar",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Planner & Calendar record",
+    "Review Planner & Calendar progress",
+    "Export Planner & Calendar data"
+  ]
+}

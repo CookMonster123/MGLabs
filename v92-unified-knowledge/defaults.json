@@ -1,0 +1,12 @@
+{
+  "version": 92,
+  "title": "Unified Knowledge",
+  "category": "Knowledge",
+  "kind": "knowledge",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Unified Knowledge record",
+    "Review Unified Knowledge progress",
+    "Export Unified Knowledge data"
+  ]
+}

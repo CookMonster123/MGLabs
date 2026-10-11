@@ -1,0 +1,1 @@
+export const metadata={id:'v98-mglabs-everywhere',version:98,title:"MGLabs Everywhere",category:"System",kind:"everywhere",description:"Device readiness, install targets, offline status, sync readiness, and cross-device checklist."} as const;

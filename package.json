@@ -1,0 +1,33 @@
+{
+  "name": "mglabs-v100-mglabs-1-0",
+  "private": true,
+  "version": "100.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "typecheck": "tsc --noEmit",
+    "build": "vite build",
+    "check": "npm run typecheck && npm run build",
+    "preview": "vite preview",
+    "cloudflare:build": "npm run check",
+    "test:requirements": "node scripts/verify.mjs",
+    "test:full": "npm run test:requirements && npm run typecheck && npm run build",
+    "deploy:worker": "wrangler deploy",
+    "version:worker": "wrangler versions upload",
+    "test:worker": "node scripts/verify-worker.mjs"
+  },
+  "dependencies": {
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.0.8",
+    "@types/react-dom": "19.0.3",
+    "@vitejs/plugin-react": "4.4.1",
+    "typescript": "5.8.3",
+    "vite": "6.1.0"
+  },
+  "engines": {
+    "node": ">=20 <23"
+  }
+}

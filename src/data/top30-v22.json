@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Daily Challenge",
+    "status": "Prototype",
+    "area": "Home",
+    "description": "Rotating local daily challenge for games, coding, study, or building."
+  },
+  {
+    "id": 2,
+    "name": "Random Game Roulette",
+    "status": "Implemented Demo",
+    "area": "Arcade",
+    "description": "Picks a random game from the local catalog."
+  },
+  {
+    "id": 3,
+    "name": "Recently Played",
+    "status": "Implemented Demo",
+    "area": "Arcade",
+    "description": "Shows recent games stored locally."
+  },
+  {
+    "id": 4,
+    "name": "Continue Where You Left Off",
+    "status": "Prototype",
+    "area": "Home",
+    "description": "Surfaces the latest app, game, or project from local history."
+  },
+  {
+    "id": 5,
+    "name": "Trending This Week",
+    "status": "Prototype",
+    "area": "Home",
+    "description": "Local/demo trending section without fake global-user claims."
+  },
+  {
+    "id": 6,
+    "name": "New This Week",
+    "status": "Implemented Demo",
+    "area": "Home",
+    "description": "Highlights recently added catalog entries."
+  },
+  {
+    "id": 7,
+    "name": "Hidden Gems",
+    "status": "Implemented Demo",
+    "area": "Arcade",
+    "description": "Surfaces less-prominent catalog entries."
+  },
+  {
+    "id": 8,
+    "name": "Game of the Day",
+    "status": "Implemented Demo",
+    "area": "Arcade",
+    "description": "Selects one catalog game each day."
+  },
+  {
+    "id": 9,
+    "name": "Weekly Quests",
+    "status": "Prototype",
+    "area": "Profile",
+    "description": "Local weekly goals for playing, learning, coding, and building."
+  },
+  {
+    "id": 10,
+    "name": "Achievement System",
+    "status": "Prototype",
+    "area": "Profile",
+    "description": "Local achievement definitions and progress."
+  },
+  {
+    "id": 11,
+    "name": "XP and Player Levels",
+    "status": "Prototype",
+    "area": "Profile",
+    "description": "Local XP framework for future activity tracking."
+  },
+  {
+    "id": 12,
+    "name": "Profile Badges",
+    "status": "Prototype",
+    "area": "Profile",
+    "description": "Local badge showcase tied to achievements."
+  },
+  {
+    "id": 13,
+    "name": "Universal Search",
+    "status": "Implemented Demo",
+    "area": "Core",
+    "description": "Search across apps, tools, games, and sections."
+  },
+  {
+    "id": 14,
+    "name": "Search by Mood",
+    "status": "Prototype",
+    "area": "Arcade",
+    "description": "Mood tags such as Chill, Competitive, Fast, Brainy, and Creative."
+  },
+  {
+    "id": 15,
+    "name": "Search by Player Count",
+    "status": "Implemented Demo",
+    "area": "Multiplayer",
+    "description": "Filter multiplayer games by 2, 3, or 4 players."
+  },
+  {
+    "id": 16,
+    "name": "Surprise Me Button",
+    "status": "Implemented Demo",
+    "area": "Home",
+    "description": "Randomly suggests an MGLabs area or game."
+  },
+  {
+    "id": 17,
+    "name": "Play With Friends Hub",
+    "status": "Prototype",
+    "area": "Multiplayer",
+    "description": "Curated local and online multiplayer discovery."
+  },
+  {
+    "id": 18,
+    "name": "MGLabs Rooms",
+    "status": "Prototype",
+    "area": "Core",
+    "description": "Theme hubs for Games, Study, Coding, Building, AI, Sports, and Retro."
+  },
+  {
+    "id": 19,
+    "name": "Game Collections and Playlists",
+    "status": "Prototype",
+    "area": "Arcade",
+    "description": "Local user-curated game collections."
+  },
+  {
+    "id": 20,
+    "name": "Private Multiplayer Room Codes",
+    "status": "Planned",
+    "area": "Multiplayer",
+    "description": "Requires a real multiplayer backend; not faked."
+  },
+  {
+    "id": 21,
+    "name": "Tournament Brackets",
+    "status": "Prototype",
+    "area": "Multiplayer",
+    "description": "Local bracket builder for friends and events."
+  },
+  {
+    "id": 22,
+    "name": "Personal Bests and Leaderboards",
+    "status": "Prototype",
+    "area": "Arcade",
+    "description": "Local personal bests; global leaderboards need a backend."
+  },
+  {
+    "id": 23,
+    "name": "BrightPath Study Dashboard",
+    "status": "Prototype",
+    "area": "BrightPath",
+    "description": "Study goals, subjects, recent sessions, mastery, and review shortcuts."
+  },
+  {
+    "id": 24,
+    "name": "CodeCoach Daily Coding Challenge",
+    "status": "Prototype",
+    "area": "CodeCoach",
+    "description": "Daily coding prompt with local completion state."
+  },
+  {
+    "id": 25,
+    "name": "ProjectForge Milestones and Project Health",
+    "status": "Prototype",
+    "area": "ProjectForge",
+    "description": "Milestones, completion progress, and project-health indicators."
+  },
+  {
+    "id": 26,
+    "name": "Device Lab Engineering Missions",
+    "status": "Prototype",
+    "area": "Device Lab",
+    "description": "Scenario-based simulator missions and experiment prompts."
+  },
+  {
+    "id": 27,
+    "name": "Community Project Showcase",
+    "status": "Prototype",
+    "area": "Community",
+    "description": "Local showcase demo; real publishing requires a backend."
+  },
+  {
+    "id": 28,
+    "name": "Customizable Homepage Widgets",
+    "status": "Prototype",
+    "area": "Home",
+    "description": "Local layout preferences for homepage sections."
+  },
+  {
+    "id": 29,
+    "name": "MGLabs Pulse Activity Dashboard",
+    "status": "Prototype",
+    "area": "Home",
+    "description": "Local activity summary based on browser-stored interactions."
+  },
+  {
+    "id": 30,
+    "name": "MGLabs Universe",
+    "status": "Prototype",
+    "area": "Core",
+    "description": "Themed world navigation: Arcade City, AI Lab, Coding District, Sports Arena, Retro Vault, Community Plaza."
+  }
+]

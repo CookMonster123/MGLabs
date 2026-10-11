@@ -1,0 +1,12 @@
+{
+  "version": 59,
+  "title": "Extension Gallery",
+  "category": "Platform",
+  "kind": "gallery",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Extension Gallery record",
+    "Review Extension Gallery progress",
+    "Export Extension Gallery data"
+  ]
+}

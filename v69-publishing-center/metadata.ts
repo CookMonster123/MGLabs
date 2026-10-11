@@ -1,0 +1,1 @@
+export const metadata={id:'v69-publishing-center',version:69,title:"Publishing Center",category:"Creator",kind:"publish",description:"Draft, review, scheduled, and published states with publishing checklist records."} as const;

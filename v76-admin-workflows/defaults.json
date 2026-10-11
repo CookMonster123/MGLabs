@@ -1,0 +1,12 @@
+{
+  "version": 76,
+  "title": "Admin Workflows",
+  "category": "Admin",
+  "kind": "workflow",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Admin Workflows record",
+    "Review Admin Workflows progress",
+    "Export Admin Workflows data"
+  ]
+}

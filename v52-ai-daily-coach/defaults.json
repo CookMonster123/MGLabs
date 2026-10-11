@@ -1,0 +1,12 @@
+{
+  "version": 52,
+  "title": "AI Daily Coach",
+  "category": "AI",
+  "kind": "coach",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a AI Daily Coach record",
+    "Review AI Daily Coach progress",
+    "Export AI Daily Coach data"
+  ]
+}

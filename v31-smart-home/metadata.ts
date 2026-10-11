@@ -1,0 +1,1 @@
+export const metadata={id:'v31-smart-home',version:31,title:"Smart Home",category:"Productivity",kind:"home",description:"Adaptive daily briefing, recommendations, favorites, recent work, and next-action suggestions."} as const;

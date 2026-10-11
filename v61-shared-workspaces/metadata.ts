@@ -1,0 +1,1 @@
+export const metadata={id:'v61-shared-workspaces',version:61,title:"Shared Workspaces",category:"Collaboration",kind:"shared",description:"Shared workspace records, membership, visibility, permissions, and workspace activity."} as const;

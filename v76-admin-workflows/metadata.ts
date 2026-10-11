@@ -1,0 +1,1 @@
+export const metadata={id:'v76-admin-workflows',version:76,title:"Admin Workflows",category:"Admin",kind:"workflow",description:"Approval flows, review stages, owners, decisions, and administrative workflow records."} as const;

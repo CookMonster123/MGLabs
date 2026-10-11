@@ -1,0 +1,12 @@
+{
+  "version": 69,
+  "title": "Publishing Center",
+  "category": "Creator",
+  "kind": "publish",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Publishing Center record",
+    "Review Publishing Center progress",
+    "Export Publishing Center data"
+  ]
+}

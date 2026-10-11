@@ -1,0 +1,12 @@
+{
+  "version": 61,
+  "title": "Shared Workspaces",
+  "category": "Collaboration",
+  "kind": "shared",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Shared Workspaces record",
+    "Review Shared Workspaces progress",
+    "Export Shared Workspaces data"
+  ]
+}

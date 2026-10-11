@@ -1,0 +1,1 @@
+export const metadata={id:'v59-extension-gallery',version:59,title:"Extension Gallery",category:"Platform",kind:"gallery",description:"Extension discovery, categories, enable state, ratings metadata, and installation records."} as const;

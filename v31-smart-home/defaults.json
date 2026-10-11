@@ -1,0 +1,12 @@
+{
+  "version": 31,
+  "title": "Smart Home",
+  "category": "Productivity",
+  "kind": "home",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Smart Home record",
+    "Review Smart Home progress",
+    "Export Smart Home data"
+  ]
+}

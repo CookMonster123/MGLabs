@@ -1,0 +1,1 @@
+export const metadata={id:'v52-ai-daily-coach',version:52,title:"AI Daily Coach",category:"AI",kind:"coach",description:"Daily plan generation, coaching check-ins, reflection records, and recommended next steps."} as const;

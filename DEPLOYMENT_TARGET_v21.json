@@ -1,9 +1,0 @@
-{
-  "owner": "CookMonster123",
-  "repository": "MGLabs",
-  "branch": "main",
-  "customDomain": "mglabs.xyz",
-  "wwwAlias": "www.mglabs.xyz",
-  "viteBase": "/",
-  "cnameFile": "public/CNAME"
-}

@@ -1,0 +1,12 @@
+{
+  "version": 89,
+  "title": "Proactive Assistant",
+  "category": "AI",
+  "kind": "proactive",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Proactive Assistant record",
+    "Review Proactive Assistant progress",
+    "Export Proactive Assistant data"
+  ]
+}

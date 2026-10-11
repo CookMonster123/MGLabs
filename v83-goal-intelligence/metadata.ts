@@ -1,0 +1,1 @@
+export const metadata={id:'v83-goal-intelligence',version:83,title:"Goal Intelligence",category:"Personal",kind:"goal",description:"Goals, measurable milestones, next actions, confidence, and progress intelligence."} as const;

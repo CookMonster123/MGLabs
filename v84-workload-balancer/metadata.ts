@@ -1,0 +1,1 @@
+export const metadata={id:'v84-workload-balancer',version:84,title:"Workload Balancer",category:"Personal",kind:"workload",description:"Daily load records, capacity warnings, overload detection, and redistribution recommendations."} as const;

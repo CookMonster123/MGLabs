@@ -1,0 +1,12 @@
+{
+  "version": 83,
+  "title": "Goal Intelligence",
+  "category": "Personal",
+  "kind": "goal",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Goal Intelligence record",
+    "Review Goal Intelligence progress",
+    "Export Goal Intelligence data"
+  ]
+}

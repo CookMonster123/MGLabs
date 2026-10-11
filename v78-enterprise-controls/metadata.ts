@@ -1,0 +1,1 @@
+export const metadata={id:'v78-enterprise-controls',version:78,title:"Enterprise Controls",category:"Admin",kind:"policy",description:"Policy records, access rules, governance settings, retention controls, and organization defaults."} as const;

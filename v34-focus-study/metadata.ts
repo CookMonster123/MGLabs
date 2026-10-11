@@ -1,0 +1,1 @@
+export const metadata={id:'v34-focus-study',version:34,title:"Focus & Study",category:"Learning",kind:"timer",description:"Focus sessions, study history, deep-work presets, breaks, and test countdown workflows."} as const;

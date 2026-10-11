@@ -1,0 +1,12 @@
+{
+  "version": 95,
+  "title": "Autonomous Organization",
+  "category": "AI",
+  "kind": "organize",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Autonomous Organization record",
+    "Review Autonomous Organization progress",
+    "Export Autonomous Organization data"
+  ]
+}

@@ -1,0 +1,1 @@
+export const metadata={id:'v88-life-dashboard',version:88,title:"Life Dashboard",category:"Personal",kind:"life",description:"Unified school, goals, projects, routines, career, and personal overview records."} as const;

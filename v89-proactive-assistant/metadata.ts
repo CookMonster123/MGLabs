@@ -1,0 +1,1 @@
+export const metadata={id:'v89-proactive-assistant',version:89,title:"Proactive Assistant",category:"AI",kind:"proactive",description:"Suggested next actions, priority recommendations, reminders, and proactive insight records."} as const;

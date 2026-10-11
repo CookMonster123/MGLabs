@@ -1,0 +1,12 @@
+{
+  "version": 78,
+  "title": "Enterprise Controls",
+  "category": "Admin",
+  "kind": "policy",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Enterprise Controls record",
+    "Review Enterprise Controls progress",
+    "Export Enterprise Controls data"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": 34,
+  "title": "Focus & Study",
+  "category": "Learning",
+  "kind": "timer",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Focus & Study record",
+    "Review Focus & Study progress",
+    "Export Focus & Study data"
+  ]
+}

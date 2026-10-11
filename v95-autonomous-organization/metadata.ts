@@ -1,0 +1,1 @@
+export const metadata={id:'v95-autonomous-organization',version:95,title:"Autonomous Organization",category:"AI",kind:"organize",description:"Organization rules, categories, auto-routing records, classification labels, and review queue."} as const;

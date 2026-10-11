@@ -1,0 +1,12 @@
+{
+  "version": 84,
+  "title": "Workload Balancer",
+  "category": "Personal",
+  "kind": "workload",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Workload Balancer record",
+    "Review Workload Balancer progress",
+    "Export Workload Balancer data"
+  ]
+}

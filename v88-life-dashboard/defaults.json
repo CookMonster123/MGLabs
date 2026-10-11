@@ -1,0 +1,12 @@
+{
+  "version": 88,
+  "title": "Life Dashboard",
+  "category": "Personal",
+  "kind": "life",
+  "defaultStatus": "Planned",
+  "samplePrompts": [
+    "Create a Life Dashboard record",
+    "Review Life Dashboard progress",
+    "Export Life Dashboard data"
+  ]
+}
